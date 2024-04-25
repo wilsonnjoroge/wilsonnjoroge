@@ -1,7 +1,7 @@
 Hi there, Im Wilson Njoroge W.
 
-to generate a random string from terminal (node)
-require('crypto').randomBytes(60).toString('hex')
+to generate a random string from terminal (node) \n
+(require('crypto').randomBytes(60).toString('hex'))
 
 
 
