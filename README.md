@@ -1,7 +1,7 @@
 Hi there, Im Wilson Njoroge W.
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/wilson-njoroge-wanderi/">
+    <a href="https://www.linkedin.com/in/wilson-njoroge-wanderi-33b615166/">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
     &nbsp;&nbsp;
