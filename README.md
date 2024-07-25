@@ -1,4 +1,9 @@
 Hi there, Im Wilson Njoroge W.
+Im a passionate techie developing robust and world class solutions on a wide range of fields. very ready and willing to collaboration.
+
+Fun Fact
+I hate apples, coz they keep me away
+# A techie and a Doctor 
 
 <p align="center">
     <a href="https://www.linkedin.com/in/wilson-njoroge-wanderi-33b615166/">
