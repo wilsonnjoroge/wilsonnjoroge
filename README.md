@@ -1,6 +1,8 @@
 Hi there, Im Wilson Njoroge W.
 
-Im a passionate techie developing robust and world class solutions on a wide range of fields. very ready and willing to collaborate
+Im a passionate techie developing robust and world class solutions on a wide range of fields. very ready and willing to collaborate.
+
+Ready to interact and learn from fellow devs.
 
 
  
