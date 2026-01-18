@@ -9,7 +9,7 @@ Invites to projects are welcome
  
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/wilson-njoroge-wanderi-33b615166/">
+    <a href="https://www.linkedin.com/in/wilson-njoroge-wanderi-ccep-isc2-cc-kcna-itil%C2%AE4-pho-33b615166/">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
     </a>
     &nbsp;&nbsp;
@@ -29,8 +29,4 @@ Invites to projects are welcome
 ![](https://github-readme-stats.vercel.app/api?username=wilsonnjoroge&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wilsonnjoroge&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonnjoroge&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wilsonnjoroge&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
