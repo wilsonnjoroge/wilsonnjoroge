@@ -83,7 +83,7 @@ I believe in learning by doing—every project here is **practical, hands-on, an
 
 ## 🎯 Projects
 
-### 1. [Vulnerability Assessment & Penetration Testing Lab](https://github.com/yourusername/vulnerability-assessment)
+### 1. [Vulnerability Assessment & Penetration Testing Lab](https://github.com/wilsonnjoroge/vulnerability-assessment)
 **Status:** 🔄 In Progress | **Difficulty:** Beginner → Intermediate  
 
 Comprehensive security assessment of intentionally vulnerable systems to practice reconnaissance, enumeration, exploitation, and remediation.
@@ -94,14 +94,14 @@ Comprehensive security assessment of intentionally vulnerable systems to practic
 
 ---
 
-### 2. [SIEM Detection & Monitoring Lab](https://github.com/yourusername/siem-detection-lab)
+### 2. [SIEM Detection & Monitoring Lab](https://github.com/wilsonnjoroge/siem-detection-lab)
 **Status:** 📅 Planned | **Difficulty:** Intermediate  
 
 Security Information and Event Management (SIEM) implementation and threat detection.  
 
 ---
 
-### 3. [Incident Response Simulation](https://github.com/yourusername/incident-response)
+### 3. [Incident Response Simulation](https://github.com/wilsonnjoroge/incident-response)
 **Status:** 📅 Planned | **Difficulty:** Intermediate → Advanced  
 
 Hands-on incident response scenarios, digital forensics, and remediation strategies.  
