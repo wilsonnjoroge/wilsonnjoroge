@@ -1,6 +1,5 @@
 # Wilson Njoroge Wanderi | Cybersecurity Portfolio
-
-Hi there, I’m **Wilson Njoroge W.**  
+ 
 I started my career as a **Backend Developer** and have now evolved into **Cybersecurity**, combining strong technical foundations with hands-on security expertise. I’m passionate about building robust solutions, ethical hacking, and practical security research. Always ready to collaborate, learn, and contribute to projects.
 
 <p align="center">
@@ -31,7 +30,7 @@ I started my career as a **Backend Developer** and have now evolved into **Cyber
 
 Cybersecurity professional with hands-on experience in **vulnerability assessment, penetration testing, and security operations**. I leverage my **backend development experience** to understand system logic, secure applications, and detect complex vulnerabilities.  
 
-I believe in learning by doing—every project here is **practical, hands-on, and demonstrates my ability to identify and mitigate security risks** responsibly.
+I believe in learning by doing every project here is **practical, hands-on, and demonstrates my ability to identify and mitigate security risks** responsibly.
 
 ---
 
