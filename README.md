@@ -113,12 +113,6 @@ Hands-on incident response scenarios, digital forensics, and remediation strateg
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wilsonnjoroge&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonnjoroge&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-## 📈 GitHub Contributions
-
-![Wilson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilsonnjoroge&show_icons=true&theme=tokyonight)
-![Wilson's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wilsonnjoroge&theme=dark)
-
 ---
 
 ## 📝 Security & Ethics
