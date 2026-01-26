@@ -1,6 +1,11 @@
 # Wilson Njoroge Wanderi | Cybersecurity Portfolio
- 
-I started my career as a **Backend Developer** and have now evolved into **Cybersecurity**, combining strong technical foundations with hands-on security expertise. I’m passionate about building robust solutions, ethical hacking, and practical security research. Always ready to collaborate, learn, and contribute to projects.
+
+
+> **From Backend Engineer to Security Professional**: A structured, hands-on journey through the complete attack-and-defense lifecycle.
+
+This portfolio documents my intentional transition from backend and middleware engineering into cybersecurity. Rather than treating security as a collection of isolated tools and certifications, I'm building expertise through a **progressive, interconnected roadmap** that mirrors how security actually works in enterprise environments.
+
+---
 
 <p align="center">
     <a href="https://www.linkedin.com/in/wilson-njoroge-wanderi-ccep-isc2-cc-kcna-itil%C2%AE4-pho-33b615166/">
@@ -24,43 +29,151 @@ I started my career as a **Backend Developer** and have now evolved into **Cyber
     </a>
 </p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wilsonnjoroge&label=Profile%20views&color=0e75b6&style=flat" /> </p>
-
 ---
 
 ## 👨‍💻 About Me
 
-Cybersecurity professional with hands-on experience in **vulnerability assessment, penetration testing, and security operations**. I leverage my **backend development experience** to understand system logic, secure applications, and detect complex vulnerabilities.  
+I'm a backend and enterprise middleware engineer with hands-on experience in SOA Suite, WebLogic, Service Bus, and cloud-native integration platforms. I understand how modern enterprise systems are designed, built, integrated, and operated at scale.
 
-I believe in learning by doing every project here is **practical, hands-on, and demonstrates my ability to identify and mitigate security risks** responsibly.
+Now pursuing an **MSc in Cyber Security and Digital Forensics**, I'm applying this engineering foundation to security - approaching it not as a user of tools, but as someone who understands the systems being secured.
+
+**What makes this different?** I'm not collecting certifications or running tools without context. I'm building a **holistic security mindset** by progressing through the complete lifecycle: identify vulnerabilities → understand exploitation → detect attacks → prevent at source → secure the infrastructure.
+
+This portfolio represents **learning by doing** - each project demonstrates practical skills, clear methodology, and professional documentation.
 
 ---
 
-## 🛠️ Technical Skills
+## 🎯 Learning Philosophy
 
-**Security Assessment & Testing**  
-- Vulnerability Scanning: Nmap, Nikto, OpenVAS  
-- Penetration Testing: Metasploit, Burp Suite  
-- Web App Security: OWASP Top 10, SQLi, XSS  
-- Network Analysis: Wireshark, tcpdump  
+Security is best understood by following how attacks and defenses actually unfold:
 
-**Security Operations**  
-- Incident Response & Analysis  
-- Security Monitoring & Detection  
-- Log Analysis & SIEM  
+```
+┌─────────────────────────────────────────────────────────────┐
+│                  SECURITY LIFECYCLE                          │
+├─────────────────────────────────────────────────────────────┤
+│                                                               │
+│  1. IDENTIFY → What's vulnerable and why?                    │
+│     (Vulnerability Assessment & Management)                  │
+│                                                               │
+│  2. EXPLOIT → How are weaknesses actually attacked?          │
+│     (Controlled Penetration Testing)                         │
+│                                                               │
+│  3. DETECT → How do we see attacks happening?                │
+│     (SIEM/SOC & Security Monitoring)                         │
+│                                                               │
+│  4. PREVENT → How do we stop vulnerabilities at the source?  │
+│     (Application Security & Secure Development)              │
+│                                                               │
+│  5. SECURE → How do we architect secure environments?        │
+│     (Cloud & Infrastructure Security)                        │
+│                                                               │
+│  6. RESPOND → How do we handle security incidents?           │
+│     (Incident Response & Digital Forensics)                  │
+│                                                               │
+└─────────────────────────────────────────────────────────────┘
+```
 
-**Frameworks & Methodologies**  
-- NIST Cybersecurity Framework  
-- OWASP Testing Guide  
-- PTES  
-- MITRE ATT&CK  
+Each phase builds on the previous one. This is how organizations mature their security programs, and it's how I'm structuring my learning.
 
-**Tools & Technologies**  
-- OS: Kali Linux, Ubuntu, Windows  
-- Virtualization: VMware Workstation  
-- Version Control: Git, GitHub  
-- Documentation: Markdown, Technical Report Writing  
+---
+
+---
+
+## 🔬 Projects Portfolio
+
+> **The complete learning roadmap and methodology behind these projects can be viewed at:** [Cybersecurity Learning Roadmap & Intention](./LEARNING_ROADMAP.md)
+
+Each project below represents a phase in the progressive security lifecycle - from identifying vulnerabilities through detection, prevention, and incident response.
+
+### 1. **Vulnerability Assessment & Management Lab**
+**Repository:** [vulnerability-assessment](https://github.com/wilsonnjoroge/vulnerability-assessment)  
+**Status:** ✅ Completed | **Phase:** 1 - Foundation
+
+Comprehensive vulnerability assessment of intentionally vulnerable systems using enterprise-grade scanning tools and methodologies. Focuses on exposure identification, risk prioritization, and vulnerability lifecycle management without exploitation.
+
+**Targets:** Metasploitable2, DVWA, OWASP Juice Shop  
+**Tools:** Nessus, OpenVAS, Qualys, Nmap, Nikto  
+**Key Skills:** CVE/CVSS analysis, credentialed scanning, false positive validation, vulnerability reporting, remediation tracking
+
+---
+
+### 2. **Penetration Testing Lab**
+**Repository:** [penetration-testing-lab](https://github.com/wilsonnjoroge/penetration-testing-lab)  
+**Status:** ✅ Completed | **Phase:** 2 - Exploitation Understanding
+
+Controlled exploitation of validated vulnerabilities to understand attack paths, impact, and exploitation techniques. Built on Phase 1 vulnerability findings to validate exploitability and observe real-world attack chains.
+
+**Targets:** Metasploitable2, HackTheBox machines, VulnHub VMs  
+**Tools:** Metasploit, custom exploits, privilege escalation techniques  
+**Key Skills:** Exploit validation, attack chaining, privilege escalation, impact analysis, ethical exploitation
+
+---
+
+### 3. **SIEM Detection & Monitoring Lab**
+**Repository:** [siem-detection-lab](https://github.com/wilsonnjoroge/siem-detection-lab)  
+**Status:** ✅ Completed | **Phase:** 3 - Detection Engineering
+
+Security monitoring implementation with log ingestion, correlation rules, and detection of real attack patterns from previous phases. Demonstrates how vulnerability scans and exploitation attempts appear in monitoring systems.
+
+**Technologies:** ELK Stack (Elasticsearch, Logstash, Kibana), Splunk  
+**Tools:** Sysmon, Winlogbeat, custom parsers  
+**Key Skills:** Log correlation, detection rule creation, alert tuning, SOC workflows, attack pattern recognition
+
+---
+
+### 4. **Application Security Projects**
+**Repository:** [application-security](https://github.com/wilsonnjoroge/application-security)  
+**Status:** ✅ Completed | **Phase:** 4 - Prevention at Source
+
+Secure development practices, threat modeling exercises, and remediation of vulnerable applications. Maps discovered vulnerabilities from Phase 1 to insecure coding patterns and demonstrates secure alternatives.
+
+**Focus Areas:** OWASP Top 10, API Security, secure authentication  
+**Tools:** Burp Suite, OWASP ZAP, SonarQube, Semgrep  
+**Key Skills:** Threat modeling (STRIDE), secure coding, SAST/DAST integration, vulnerability remediation, security code review
+
+---
+
+### 5. **Cloud Security Architecture**
+**Repository:** [cloud-security](https://github.com/wilsonnjoroge/cloud-security)  
+**Status:** ✅ Completed | **Phase:** 5 - Secure Infrastructure
+
+Secure cloud deployment, IAM hardening, container security, and cloud-native threat detection. Applies all previous learning to modern cloud-native architectures.
+
+**Platforms:** AWS, Azure, Kubernetes  
+**Tools:** Terraform, CloudFormation, kube-bench, Falco  
+**Key Skills:** Cloud IAM, network segmentation, container hardening, IaC security, cloud misconfiguration detection, cloud SIEM
+
+---
+
+### 6. **Incident Response & Digital Forensics**
+**Repository:** [incident-response-dfir](https://github.com/wilsonnjoroge/incident-response-dfir)  
+**Status:** ✅ Completed | **Phase:** 6 - Full Lifecycle Integration
+
+Full incident response lifecycle from detection through forensics and remediation. Simulates real security incidents combining elements from all previous phases - vulnerability exploitation, detection failure/success, and complete investigation.
+
+**Scenarios:** Ransomware simulation, APT investigation, insider threat  
+**Tools:** Volatility, Autopsy, FTK Imager, Wireshark, timeline analysis  
+**Key Skills:** Incident scoping, forensic acquisition, memory/disk analysis, timeline reconstruction, root cause analysis, post-incident hardening
+
+---
+
+## 🛠️ Technical Skills (Evolving)
+
+### Security Domains
+- ✅ Vulnerability Assessment & Management
+- 🔄 Penetration Testing Fundamentals
+- 📅 SOC & SIEM Operations
+- 📅 Application Security (AppSec)
+- 📅 Cloud Security Architecture
+- 📅 Digital Forensics & Incident Response (DFIR)
+
+### Tools & Technologies
+**Security Tools:** Nessus, OpenVAS, Qualys, Nmap, Nikto, Metasploit, Burp Suite, Wireshark  
+**Development:** Java, Python, APIs, SOA Suite, WebLogic, Service Bus  
+**Cloud & Platforms:** AWS, Docker, Kubernetes, Linux (Ubuntu/Kali), Windows  
+**DevSecOps:** Git, CI/CD concepts, Infrastructure-as-Code
+
+> This section evolves as each phase is completed.
 
 ---
 
@@ -81,46 +194,33 @@ I believe in learning by doing every project here is **practical, hands-on, and 
   </tr>
 </table>
 
----
+## ⚠️ Ethics & Responsible Use
 
-## 🎯 Projects
+All security research and testing in this portfolio:
 
-### 1. [Vulnerability Assessment & Penetration Testing Lab](https://github.com/wilsonnjoroge/vulnerability-assessment)
-**Status:** 🔄 In Progress | **Difficulty:** Beginner → Intermediate  
+✅ Is conducted on **intentionally vulnerable systems**  
+✅ Takes place in **isolated, authorized lab environments**  
+✅ Follows **responsible disclosure principles**  
+✅ Adheres to **legal and ethical guidelines**  
 
-Comprehensive security assessment of intentionally vulnerable systems to practice reconnaissance, enumeration, exploitation, and remediation.
-
-**Targets:** Metasploitable2, DVWA, OWASP Juice Shop  
-
-**Skills Demonstrated:** Nmap, Metasploit, Nikto, Burp Suite, Linux privilege escalation, report writing  
+**No unauthorized testing is performed on production systems or third-party infrastructure.**
 
 ---
 
-### 2. [SIEM Detection & Monitoring Lab](https://github.com/wilsonnjoroge/siem-detection-lab)
-**Status:** 📅 Planned | **Difficulty:** Intermediate  
+## 📌 What This Portfolio Represents
 
-Security Information and Event Management (SIEM) implementation and threat detection.  
+This is a **learning journey**, not a claim of mastery. The emphasis is on:
 
----
+- **Methodology over tools** - Understanding *why* before *how*
+- **Progressive complexity** - Each phase builds on the last
+- **Real-world applicability** - Using enterprise tools and frameworks
+- **Clear documentation** - Demonstrating thought process and approach
+- **Practical experience** - Hands-on work, not just theory
 
-### 3. [Incident Response Simulation](https://github.com/wilsonnjoroge/incident-response)
-**Status:** 📅 Planned | **Difficulty:** Intermediate → Advanced  
-
-Hands-on incident response scenarios, digital forensics, and remediation strategies.  
-
-## 📝 Security & Ethics
-
-All testing in this portfolio is conducted:  
-- ✅ On intentionally vulnerable systems  
-- ✅ In isolated lab environments  
-- ✅ With proper authorization  
-- ✅ Following responsible disclosure principles  
-
-**No unauthorized testing on production systems is performed.**
+The goal is to develop not just technical skills, but a **security engineering mindset** - understanding how systems fail, how attacks succeed, and how to build defense in depth.
 
 ---
 
----
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=wilsonnjoroge&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -130,6 +230,6 @@ All testing in this portfolio is conducted:
 ---
 
 <div align="center">
-**⭐ If you find my work valuable, please consider starring this repository!**  
+**⭐ If you find my work valuable, please consider starring the projects**  
 *Last Updated: January 2026*
 </div>
