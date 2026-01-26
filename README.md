@@ -7,6 +7,7 @@ This portfolio documents my intentional transition from backend and middleware e
 
 ---
 
+
 <p align="center">
     <a href="https://www.linkedin.com/in/wilson-njoroge-wanderi-ccep-isc2-cc-kcna-itil%C2%AE4-pho-33b615166/">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
