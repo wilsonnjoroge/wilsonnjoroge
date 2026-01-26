@@ -99,7 +99,7 @@ Comprehensive vulnerability assessment of intentionally vulnerable systems using
 ---
 
 ### 2. **Penetration Testing Lab**
-**Repository:** [penetration-testing-lab](https://github.com/wilsonnjoroge/penetration-testing-lab)  
+**Repository:** [penetration-testing-lab](https://github.com/wilsonnjoroge/penetration-testing)  
 **Status:** ✅ Completed | **Phase:** 2 - Exploitation Understanding
 
 Controlled exploitation of validated vulnerabilities to understand attack paths, impact, and exploitation techniques. Built on Phase 1 vulnerability findings to validate exploitability and observe real-world attack chains.
@@ -147,7 +147,7 @@ Secure cloud deployment, IAM hardening, container security, and cloud-native thr
 ---
 
 ### 6. **Incident Response & Digital Forensics**
-**Repository:** [incident-response-dfir](https://github.com/wilsonnjoroge/incident-response-dfir)  
+**Repository:** [incident-response-dfir](https://github.com/wilsonnjoroge/incident-response)  
 **Status:** ✅ Completed | **Phase:** 6 - Full Lifecycle Integration
 
 Full incident response lifecycle from detection through forensics and remediation. Simulates real security incidents combining elements from all previous phases - vulnerability exploitation, detection failure/success, and complete investigation.
