@@ -231,6 +231,7 @@ The goal is to develop not just technical skills, but a **security engineering m
 ---
 
 <div align="center">
-**⭐ If you find my work valuable, please consider starring the projects**  
-*Last Updated: January 2026*
+  <p><strong>⭐ If you find my work valuable, please consider starring the projects</strong></p>
+  <p><em>Last Updated: January 2026</em></p>
 </div>
+
