@@ -51,27 +51,27 @@ Security is best understood by following how attacks and defenses actually unfol
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                  SECURITY LIFECYCLE                          │
+│                  SECURITY LIFECYCLE                         │
 ├─────────────────────────────────────────────────────────────┤
-│                                                               │
-│  1. IDENTIFY → What's vulnerable and why?                    │
-│     (Vulnerability Assessment & Management)                  │
-│                                                               │
-│  2. EXPLOIT → How are weaknesses actually attacked?          │
-│     (Controlled Penetration Testing)                         │
-│                                                               │
-│  3. DETECT → How do we see attacks happening?                   │
-│     (SIEM/SOC & Security Monitoring)                            │
-│                                                                  │
-│  4. PREVENT → How do we stop vulnerabilities at the source?     │
-│     (Application Security & Secure Development)                 │
-│                                                                  │
-│  5. SECURE → How do we architect secure environments?           │
-│     (Cloud & Infrastructure Security)                           │
-│                                                                  │
-│  6. RESPOND → How do we handle security incidents?              │
-│     (Incident Response & Digital Forensics)                     │
-│                                                                  │
+│                                                             │
+│  1. IDENTIFY → What's vulnerable and why?                   │
+│     (Vulnerability Assessment & Management)                 │
+│                                                             │
+│  2. EXPLOIT → How are weaknesses actually attacked?         │
+│     (Controlled Penetration Testing)                        │
+│                                                             │
+│  3. DETECT → How do we see attacks happening?               │
+│     (SIEM/SOC & Security Monitoring)                        │
+│                                                             │
+│  4. PREVENT → How do we stop vulnerabilities at the source? │
+│     (Application Security & Secure Development)             │
+│                                                             │
+│  5. SECURE → How do we architect secure environments?       │
+│     (Cloud & Infrastructure Security)                       │
+│                                                             │
+│  6. RESPOND → How do we handle security incidents?          │
+│     (Incident Response & Digital Forensics)                 │
+│                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
