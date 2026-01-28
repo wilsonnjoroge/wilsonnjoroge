@@ -59,18 +59,18 @@ Security is best understood by following how attacks and defenses actually unfol
 │  2. EXPLOIT → How are weaknesses actually attacked?          │
 │     (Controlled Penetration Testing)                         │
 │                                                               │
-│  3. DETECT → How do we see attacks happening?                │
-│     (SIEM/SOC & Security Monitoring)                         │
-│                                                               │
-│  4. PREVENT → How do we stop vulnerabilities at the source?  │
-│     (Application Security & Secure Development)              │
-│                                                               │
-│  5. SECURE → How do we architect secure environments?        │
-│     (Cloud & Infrastructure Security)                        │
-│                                                               │
-│  6. RESPOND → How do we handle security incidents?           │
-│     (Incident Response & Digital Forensics)                  │
-│                                                               │
+│  3. DETECT → How do we see attacks happening?                   │
+│     (SIEM/SOC & Security Monitoring)                            │
+│                                                                  │
+│  4. PREVENT → How do we stop vulnerabilities at the source?     │
+│     (Application Security & Secure Development)                 │
+│                                                                  │
+│  5. SECURE → How do we architect secure environments?           │
+│     (Cloud & Infrastructure Security)                           │
+│                                                                  │
+│  6. RESPOND → How do we handle security incidents?              │
+│     (Incident Response & Digital Forensics)                     │
+│                                                                  │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -100,7 +100,7 @@ Comprehensive vulnerability assessment of intentionally vulnerable systems using
 
 ### 2. **Penetration Testing Lab**
 **Repository:** [penetration-testing-lab](https://github.com/wilsonnjoroge/penetration-testing)  
-**Status:** ✅ Completed | **Phase:** 2 - Exploitation Understanding
+**Status:** InProgress | **Phase:** 2 - Exploitation Understanding
 
 Controlled exploitation of validated vulnerabilities to understand attack paths, impact, and exploitation techniques. Built on Phase 1 vulnerability findings to validate exploitability and observe real-world attack chains.
 
@@ -112,7 +112,7 @@ Controlled exploitation of validated vulnerabilities to understand attack paths,
 
 ### 3. **SIEM Detection & Monitoring Lab**
 **Repository:** [siem-detection-lab](https://github.com/wilsonnjoroge/siem-detection-lab)  
-**Status:** ✅ Completed | **Phase:** 3 - Detection Engineering
+**Status:** InProgress | **Phase:** 3 - Detection Engineering
 
 Security monitoring implementation with log ingestion, correlation rules, and detection of real attack patterns from previous phases. Demonstrates how vulnerability scans and exploitation attempts appear in monitoring systems.
 
@@ -124,7 +124,7 @@ Security monitoring implementation with log ingestion, correlation rules, and de
 
 ### 4. **Application Security Projects**
 **Repository:** [application-security](https://github.com/wilsonnjoroge/application-security)  
-**Status:** ✅ Completed | **Phase:** 4 - Prevention at Source
+**Status:** InProgress | **Phase:** 4 - Prevention at Source
 
 Secure development practices, threat modeling exercises, and remediation of vulnerable applications. Maps discovered vulnerabilities from Phase 1 to insecure coding patterns and demonstrates secure alternatives.
 
@@ -136,7 +136,7 @@ Secure development practices, threat modeling exercises, and remediation of vuln
 
 ### 5. **Cloud Security Architecture**
 **Repository:** [cloud-security](https://github.com/wilsonnjoroge/cloud-security)  
-**Status:** ✅ Completed | **Phase:** 5 - Secure Infrastructure
+**Status:** InProgress | **Phase:** 5 - Secure Infrastructure
 
 Secure cloud deployment, IAM hardening, container security, and cloud-native threat detection. Applies all previous learning to modern cloud-native architectures.
 
@@ -148,7 +148,7 @@ Secure cloud deployment, IAM hardening, container security, and cloud-native thr
 
 ### 6. **Incident Response & Digital Forensics**
 **Repository:** [incident-response-dfir](https://github.com/wilsonnjoroge/incident-response)  
-**Status:** ✅ Completed | **Phase:** 6 - Full Lifecycle Integration
+**Status:** InProgress | **Phase:** 6 - Full Lifecycle Integration
 
 Full incident response lifecycle from detection through forensics and remediation. Simulates real security incidents combining elements from all previous phases - vulnerability exploitation, detection failure/success, and complete investigation.
 
