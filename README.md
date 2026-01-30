@@ -102,7 +102,7 @@ Comprehensive vulnerability assessment of intentionally vulnerable systems using
 
 ---
 
-#### **📊 Way A - Detailed Reports (Bullet List Format)**
+#### **Detailed Reports**
 
 **Key Deliverables & Reports:**
 - **Metasploitable2 Final Report** (Consolidated High-Level): [View Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/final-report.md)
@@ -114,7 +114,7 @@ Comprehensive vulnerability assessment of intentionally vulnerable systems using
 
 ---
 
-#### **📊 Way B - Detailed Reports (Modern Table Format)**
+#### **Detailed Reports**
 
 | Target | Final Report | Tool-Specific Reports |
 |--------|--------------|----------------------|
@@ -138,7 +138,7 @@ Controlled exploitation of validated vulnerabilities to understand attack paths,
 
 ---
 
-#### **📊 Way A - Detailed Reports (Bullet List Format)**
+#### **Detailed Reports**
 
 **Reports:** 🔄 *Reports will be added as testing progresses*
 
@@ -146,7 +146,7 @@ Controlled exploitation of validated vulnerabilities to understand attack paths,
 
 ---
 
-#### **📊 Way B - Detailed Reports (Modern Table Format)**
+#### **Detailed Reports**
 
 | Target | Final Report | Tool-Specific Reports |
 |--------|--------------|----------------------|
@@ -170,7 +170,7 @@ Security monitoring implementation with log ingestion, correlation rules, and de
 
 ---
 
-#### **📊 Way A - Detailed Reports (Bullet List Format)**
+#### **Detailed Reports**
 
 **Reports:** 🔄 *Reports will be added as lab work progresses*
 
@@ -178,7 +178,7 @@ Security monitoring implementation with log ingestion, correlation rules, and de
 
 ---
 
-#### **📊 Way B - Detailed Reports (Modern Table Format)**
+#### **Detailed Reports**
 
 | Lab Component | Documentation | Status |
 |---------------|---------------|--------|
@@ -202,7 +202,7 @@ Secure development practices, threat modeling exercises, and remediation of vuln
 
 ---
 
-#### **📊 Way A - Detailed Reports (Bullet List Format)**
+#### **Detailed Reports**
 
 **Reports:** 🔄 *Reports will be added as projects are completed*
 
@@ -210,7 +210,7 @@ Secure development practices, threat modeling exercises, and remediation of vuln
 
 ---
 
-#### **📊 Way B - Detailed Reports (Modern Table Format)**
+#### **Detailed Reports**
 
 | Project Component | Documentation | Status |
 |-------------------|---------------|--------|
@@ -234,7 +234,7 @@ Secure cloud deployment, IAM hardening, container security, and cloud-native thr
 
 ---
 
-#### **📊 Way A - Detailed Reports (Bullet List Format)**
+#### **Detailed Reports**
 
 **Reports:** 🔄 *Reports will be added as cloud projects are completed*
 
@@ -242,7 +242,7 @@ Secure cloud deployment, IAM hardening, container security, and cloud-native thr
 
 ---
 
-#### **📊 Way B - Detailed Reports (Modern Table Format)**
+#### **Detailed Reports**
 
 | Cloud Platform | Documentation | Status |
 |----------------|---------------|--------|
@@ -266,7 +266,7 @@ Full incident response lifecycle from detection through forensics and remediatio
 
 ---
 
-#### **📊 Way A - Detailed Reports (Bullet List Format)**
+#### **Detailed Reports**
 
 **Reports:** 🔄 *Reports will be added as incident simulations are completed*
 
@@ -274,7 +274,7 @@ Full incident response lifecycle from detection through forensics and remediatio
 
 ---
 
-#### **📊 Way B - Detailed Reports (Modern Table Format)**
+#### **Detailed Reports**
 
 | Incident Scenario | Documentation | Status |
 |-------------------|---------------|--------|
