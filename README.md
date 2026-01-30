@@ -79,6 +79,7 @@ Each phase builds on the previous one. This is how organizations mature their se
 
 ---
 
+
 ---
 
 ## 🔬 Projects Portfolio
@@ -86,6 +87,8 @@ Each phase builds on the previous one. This is how organizations mature their se
 > **The complete learning roadmap and methodology behind these projects can be viewed at:** [Cybersecurity Learning Roadmap & Intention](./LEARNING_ROADMAP.md)
 
 Each project below represents a phase in the progressive security lifecycle - from identifying vulnerabilities through detection, prevention, and incident response.
+
+---
 
 ### 1. **Vulnerability Assessment & Management Lab**
 **Repository:** [vulnerability-assessment](https://github.com/wilsonnjoroge/vulnerability-assessment)  
@@ -99,9 +102,33 @@ Comprehensive vulnerability assessment of intentionally vulnerable systems using
 
 ---
 
+#### **📊 Way A - Detailed Reports (Bullet List Format)**
+
+**Key Deliverables & Reports:**
+- **Metasploitable2 Final Report** (Consolidated High-Level): [View Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/final-report.md)
+- **Nmap Detailed Report** (Reconnaissance & Port Scanning): [View Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/nmap/detailed.md)
+- **OpenVAS Detailed Report** (Vulnerability Scanning): [View Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/openvas/detailed.md)
+- **Nessus Detailed Report** (Vulnerability Scanning): [View Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/nessus/detailed.md)
+- **Nikto Detailed Report** (Web Vulnerability Scanning): [View Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/nikto/detailed.md)
+- 📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/vulnerability-assessment)
+
+---
+
+#### **📊 Way B - Detailed Reports (Modern Table Format)**
+
+| Target | Final Report | Tool-Specific Reports |
+|--------|--------------|----------------------|
+| **Metasploitable2** | [📋 Final Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/final-report.md) | [Nmap](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/nmap/detailed.md) • [OpenVAS](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/openvas/detailed.md) • [Nessus](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/nessus/detailed.md) • [Nikto](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/nikto/detailed.md) |
+| **DVWA** | 🔄 In Progress | - |
+| **Juice Shop** | 🔄 In Progress | - |
+
+📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/vulnerability-assessment)
+
+---
+
 ### 2. **Penetration Testing Lab**
 **Repository:** [penetration-testing-lab](https://github.com/wilsonnjoroge/penetration-testing)  
-**Status:** InProgress | **Phase:** 2 - Exploitation Understanding
+**Status:** 🔄 In Progress | **Phase:** 2 - Exploitation Understanding
 
 Controlled exploitation of validated vulnerabilities to understand attack paths, impact, and exploitation techniques. Built on Phase 1 vulnerability findings to validate exploitability and observe real-world attack chains.
 
@@ -111,9 +138,29 @@ Controlled exploitation of validated vulnerabilities to understand attack paths,
 
 ---
 
+#### **📊 Way A - Detailed Reports (Bullet List Format)**
+
+**Reports:** 🔄 *Reports will be added as testing progresses*
+
+- 📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/penetration-testing)
+
+---
+
+#### **📊 Way B - Detailed Reports (Modern Table Format)**
+
+| Target | Final Report | Tool-Specific Reports |
+|--------|--------------|----------------------|
+| **Metasploitable2** | 🔄 In Progress | - |
+| **DVWA** | 🔄 In Progress | - |
+| **Juice Shop** | 🔄 In Progress | - |
+
+📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/penetration-testing)
+
+---
+
 ### 3. **SIEM Detection & Monitoring Lab**
 **Repository:** [siem-detection-lab](https://github.com/wilsonnjoroge/siem-detection-lab)  
-**Status:** InProgress | **Phase:** 3 - Detection Engineering
+**Status:** 🔄 In Progress | **Phase:** 3 - Detection Engineering
 
 Security monitoring implementation with log ingestion, correlation rules, and detection of real attack patterns from previous phases. Demonstrates how vulnerability scans and exploitation attempts appear in monitoring systems.
 
@@ -123,9 +170,29 @@ Security monitoring implementation with log ingestion, correlation rules, and de
 
 ---
 
+#### **📊 Way A - Detailed Reports (Bullet List Format)**
+
+**Reports:** 🔄 *Reports will be added as lab work progresses*
+
+- 📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/siem-detection-lab)
+
+---
+
+#### **📊 Way B - Detailed Reports (Modern Table Format)**
+
+| Lab Component | Documentation | Status |
+|---------------|---------------|--------|
+| **ELK Stack Setup** | 🔄 In Progress | Configuration & Setup |
+| **Detection Rules** | 🔄 In Progress | Rule Development |
+| **Attack Simulations** | 🔄 In Progress | Detection Testing |
+
+📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/siem-detection-lab)
+
+---
+
 ### 4. **Application Security Projects**
 **Repository:** [application-security](https://github.com/wilsonnjoroge/application-security)  
-**Status:** InProgress | **Phase:** 4 - Prevention at Source
+**Status:** 🔄 In Progress | **Phase:** 4 - Prevention at Source
 
 Secure development practices, threat modeling exercises, and remediation of vulnerable applications. Maps discovered vulnerabilities from Phase 1 to insecure coding patterns and demonstrates secure alternatives.
 
@@ -135,9 +202,29 @@ Secure development practices, threat modeling exercises, and remediation of vuln
 
 ---
 
+#### **📊 Way A - Detailed Reports (Bullet List Format)**
+
+**Reports:** 🔄 *Reports will be added as projects are completed*
+
+- 📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/application-security)
+
+---
+
+#### **📊 Way B - Detailed Reports (Modern Table Format)**
+
+| Project Component | Documentation | Status |
+|-------------------|---------------|--------|
+| **OWASP Top 10 Labs** | 🔄 In Progress | Vulnerability Testing |
+| **Threat Modeling** | 🔄 In Progress | STRIDE Analysis |
+| **Secure Code Review** | 🔄 In Progress | Code Analysis |
+
+📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/application-security)
+
+---
+
 ### 5. **Cloud Security Architecture**
 **Repository:** [cloud-security](https://github.com/wilsonnjoroge/cloud-security)  
-**Status:** InProgress | **Phase:** 5 - Secure Infrastructure
+**Status:** 🔄 In Progress | **Phase:** 5 - Secure Infrastructure
 
 Secure cloud deployment, IAM hardening, container security, and cloud-native threat detection. Applies all previous learning to modern cloud-native architectures.
 
@@ -147,15 +234,55 @@ Secure cloud deployment, IAM hardening, container security, and cloud-native thr
 
 ---
 
+#### **📊 Way A - Detailed Reports (Bullet List Format)**
+
+**Reports:** 🔄 *Reports will be added as cloud projects are completed*
+
+- 📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/cloud-security)
+
+---
+
+#### **📊 Way B - Detailed Reports (Modern Table Format)**
+
+| Cloud Platform | Documentation | Status |
+|----------------|---------------|--------|
+| **AWS Security** | 🔄 In Progress | IAM & Network Setup |
+| **Azure Security** | 🔄 In Progress | Configuration |
+| **Kubernetes Security** | 🔄 In Progress | Container Hardening |
+
+📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/cloud-security)
+
+---
+
 ### 6. **Incident Response & Digital Forensics**
 **Repository:** [incident-response-dfir](https://github.com/wilsonnjoroge/incident-response)  
-**Status:** InProgress | **Phase:** 6 - Full Lifecycle Integration
+**Status:** 🔄 In Progress | **Phase:** 6 - Full Lifecycle Integration
 
 Full incident response lifecycle from detection through forensics and remediation. Simulates real security incidents combining elements from all previous phases - vulnerability exploitation, detection failure/success, and complete investigation.
 
 **Scenarios:** Ransomware simulation, APT investigation, insider threat  
 **Tools:** Volatility, Autopsy, FTK Imager, Wireshark, timeline analysis  
 **Key Skills:** Incident scoping, forensic acquisition, memory/disk analysis, timeline reconstruction, root cause analysis, post-incident hardening
+
+---
+
+#### **📊 Way A - Detailed Reports (Bullet List Format)**
+
+**Reports:** 🔄 *Reports will be added as incident simulations are completed*
+
+- 📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/incident-response)
+
+---
+
+#### **📊 Way B - Detailed Reports (Modern Table Format)**
+
+| Incident Scenario | Documentation | Status |
+|-------------------|---------------|--------|
+| **Ransomware Simulation** | 🔄 In Progress | Investigation & Analysis |
+| **APT Investigation** | 🔄 In Progress | Forensic Analysis |
+| **Insider Threat** | 🔄 In Progress | Timeline Reconstruction |
+
+📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/incident-response)
 
 ---
 
@@ -235,4 +362,3 @@ The goal is to develop not just technical skills, but a **security engineering m
   <p><strong>⭐ If you find my work valuable, please consider starring the projects</strong></p>
   <p><em>Last Updated: January 2026</em></p>
 </div>
-
