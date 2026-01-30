@@ -105,7 +105,7 @@ Comprehensive vulnerability assessment of intentionally vulnerable systems using
 #### **Detailed Reports**
 
 **Key Deliverables & Reports:**
-- **Metasploitable2 Final Report** (Consolidated High-Level): [View Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/final-report.md)
+- **Metasploitable2 Final Report** (Consolidated High-Level): [View Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/openvas/detailed-reports/metasploitable2-report.md)
 - **Nmap Detailed Report** (Reconnaissance & Port Scanning): [View Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/nmap/detailed.md)
 - **OpenVAS Detailed Report** (Vulnerability Scanning): [View Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/openvas/detailed.md)
 - **Nessus Detailed Report** (Vulnerability Scanning): [View Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/nessus/detailed.md)
