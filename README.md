@@ -104,25 +104,14 @@ Comprehensive vulnerability assessment of intentionally vulnerable systems using
 
 #### **Detailed Reports**
 
-**Key Deliverables & Reports:**
-- **Metasploitable2 Final Report** (Consolidated High-Level): [View Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/openvas/detailed-reports/metasploitable2-report.md)
-- **Nmap Detailed Report** (Reconnaissance & Port Scanning): [View Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/nmap/detailed.md)
-- **OpenVAS Detailed Report** (Vulnerability Scanning): [View Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/openvas/detailed.md)
-- **Nessus Detailed Report** (Vulnerability Scanning): [View Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/nessus/detailed.md)
-- **Nikto Detailed Report** (Web Vulnerability Scanning): [View Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/nikto/detailed.md)
-- 📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/vulnerability-assessment)
 
----
-
-#### **Detailed Reports**
+📂 [**Full Repository**](https://github.com/wilsonnjoroge/vulnerability-assessment)
 
 | Target | Final Report | Tool-Specific Reports |
 |--------|--------------|----------------------|
 | **Metasploitable2** | [📋 Final Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/final-report.md) | [Nmap](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/nmap/detailed-reports/metasploitable2-report.md) • [OpenVAS](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/openvas/detailed-reports/metasploitable2-report.md) • [Nessus](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/nessus/detailed-report/detailed.md) • [Nikto](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/nikto/detailed-reports/metasploitable2-report.md) |
 | **DVWA** | 🔄 In Progress | - |
 | **Juice Shop** | 🔄 In Progress | - |
-
-📂 [**Full Repository**](https://github.com/wilsonnjoroge/vulnerability-assessment)
 
 ---
 
@@ -140,21 +129,13 @@ Controlled exploitation of validated vulnerabilities to understand attack paths,
 
 #### **Detailed Reports**
 
-**Reports:** 🔄 *Reports will be added as testing progresses*
-
-- 📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/penetration-testing)
-
----
-
-#### **Detailed Reports**
+📂 [**Full Repository**](https://github.com/wilsonnjoroge/penetration-testing)
 
 | Target | Final Report | Tool-Specific Reports |
 |--------|--------------|----------------------|
 | **Metasploitable2** | 🔄 In Progress | - |
 | **DVWA** | 🔄 In Progress | - |
 | **Juice Shop** | 🔄 In Progress | - |
-
-📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/penetration-testing)
 
 ---
 
@@ -172,21 +153,13 @@ Security monitoring implementation with log ingestion, correlation rules, and de
 
 #### **Detailed Reports**
 
-**Reports:** 🔄 *Reports will be added as lab work progresses*
-
-- 📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/siem-detection-lab)
-
----
-
-#### **Detailed Reports**
+📂 [**Full Repository**](https://github.com/wilsonnjoroge/siem-detection-lab)
 
 | Lab Component | Documentation | Status |
 |---------------|---------------|--------|
 | **ELK Stack Setup** | 🔄 In Progress | Configuration & Setup |
 | **Detection Rules** | 🔄 In Progress | Rule Development |
 | **Attack Simulations** | 🔄 In Progress | Detection Testing |
-
-📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/siem-detection-lab)
 
 ---
 
@@ -204,21 +177,13 @@ Secure development practices, threat modeling exercises, and remediation of vuln
 
 #### **Detailed Reports**
 
-**Reports:** 🔄 *Reports will be added as projects are completed*
-
-- 📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/application-security)
-
----
-
-#### **Detailed Reports**
+📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/application-security)
 
 | Project Component | Documentation | Status |
 |-------------------|---------------|--------|
 | **OWASP Top 10 Labs** | 🔄 In Progress | Vulnerability Testing |
 | **Threat Modeling** | 🔄 In Progress | STRIDE Analysis |
 | **Secure Code Review** | 🔄 In Progress | Code Analysis |
-
-📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/application-security)
 
 ---
 
@@ -236,21 +201,13 @@ Secure cloud deployment, IAM hardening, container security, and cloud-native thr
 
 #### **Detailed Reports**
 
-**Reports:** 🔄 *Reports will be added as cloud projects are completed*
-
-- 📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/cloud-security)
-
----
-
-#### **Detailed Reports**
+📂 [**Full Repository**](https://github.com/wilsonnjoroge/cloud-security)
 
 | Cloud Platform | Documentation | Status |
 |----------------|---------------|--------|
 | **AWS Security** | 🔄 In Progress | IAM & Network Setup |
 | **Azure Security** | 🔄 In Progress | Configuration |
 | **Kubernetes Security** | 🔄 In Progress | Container Hardening |
-
-📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/cloud-security)
 
 ---
 
@@ -268,21 +225,13 @@ Full incident response lifecycle from detection through forensics and remediatio
 
 #### **Detailed Reports**
 
-**Reports:** 🔄 *Reports will be added as incident simulations are completed*
-
-- 📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/incident-response)
-
----
-
-#### **Detailed Reports**
+📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/incident-response)
 
 | Incident Scenario | Documentation | Status |
 |-------------------|---------------|--------|
 | **Ransomware Simulation** | 🔄 In Progress | Investigation & Analysis |
 | **APT Investigation** | 🔄 In Progress | Forensic Analysis |
 | **Insider Threat** | 🔄 In Progress | Timeline Reconstruction |
-
-📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/incident-response)
 
 ---
 
