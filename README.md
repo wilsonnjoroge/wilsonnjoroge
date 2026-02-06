@@ -122,7 +122,7 @@ Comprehensive vulnerability assessment of intentionally vulnerable systems using
 | **DVWA** | 🔄 In Progress | - |
 | **Juice Shop** | 🔄 In Progress | - |
 
-📂 **Full Repository**: [View All Work](https://github.com/wilsonnjoroge/vulnerability-assessment)
+📂 [**Full Repository**](https://github.com/wilsonnjoroge/vulnerability-assessment)
 
 ---
 
