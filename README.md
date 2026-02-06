@@ -118,7 +118,7 @@ Comprehensive vulnerability assessment of intentionally vulnerable systems using
 
 | Target | Final Report | Tool-Specific Reports |
 |--------|--------------|----------------------|
-| **Metasploitable2** | [📋 Final Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/final-report.md) | [Nmap](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/nmap/detailed.md) • [OpenVAS](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/openvas/detailed.md) • [Nessus](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/nessus/detailed.md) • [Nikto](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/nikto/detailed.md) |
+| **Metasploitable2** | [📋 Final Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/final-report.md) | [Nmap](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/nmap/detailed-reports/metasploitable2-report.md) • [OpenVAS](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/openvas/detailed-reports/metasploitable2-report.md) • [Nessus](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/nessus/detailed-report/detailed.md) • [Nikto](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/nikto/detailed-reports/metasploitable2-report.md) |
 | **DVWA** | 🔄 In Progress | - |
 | **Juice Shop** | 🔄 In Progress | - |
 
