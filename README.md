@@ -98,7 +98,7 @@ Comprehensive vulnerability assessment of intentionally vulnerable systems using
 
 **Targets:** Metasploitable2, DVWA, OWASP Juice Shop  
 **Tools:** Nessus, OpenVAS, Qualys, Nmap, Nikto  
-**Key Skills:** CVE/CVSS analysis, credentialed scanning, false positive validation, vulnerability reporting, remediation tracking
+**Key Skills:** CVE/CVSS analysis, credentialed scanning, false positive validation, vulnerability reporting, remediation tracking.
 
 ---
 
