@@ -1,4 +1,5 @@
-# Wilson Njoroge Wanderi | Cybersecurity Portfolio
+# Wilson Njoroge Wanderi 
+# Cybersecurity Portfolio
 
 
 > **From Backend Engineer to Security Professional**: A structured, hands-on journey through the complete attack-and-defense lifecycle.
