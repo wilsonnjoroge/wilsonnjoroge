@@ -275,7 +275,7 @@ Full incident response lifecycle from detection through forensics and remediatio
 
 ## ⚠️ Ethics & Responsible Use
 
-All security research and testing in this portfolio:
+All security research and testing in this portfolio:  
 
 ✅ Is conducted on **intentionally vulnerable systems**  
 ✅ Takes place in **isolated, authorized lab environments**  
