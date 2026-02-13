@@ -85,7 +85,7 @@ Each phase builds on the previous one. This is how organizations mature their se
 
 ## 🔬 Projects Portfolio
 
-> **The complete learning roadmap and methodology behind these projects can be viewed at:** [Cybersecurity Learning Roadmap & Intention](./LEARNING_ROADMAP.md)
+> **The complete learning roadmap and methodology behind these projects can be viewed at:** [Cybersecurity Learning Roadmap & Intention](../../LEARNING_ROADMAP.md)
 
 Each project below represents a phase in the progressive security lifecycle - from identifying vulnerabilities through detection, prevention, and incident response.
 
