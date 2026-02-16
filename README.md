@@ -5,7 +5,7 @@
 > **From Backend Engineer to Security Professional**: A structured, hands-on journey through the complete attack-and-defense lifecycle.
  
 
-This portfolio documents my intentional transition from backend and middleware engineering into cybersecurity. Rather than treating security as a collection of isolated tools and certifications, I'm building expertise through a **progressive, interconnected roadmap** that mirrors how security actually works in enterprise environments.
+This portfolio documents my intentional transition from backend and middleware engineering into cybersecurity. Rather than treating security as a collection of isolated tools and certifications, I'm building expertise through a **progressive, interconnected roadmap** that mirrors how security actually works in Enterprise environments.
 
 ---
 
