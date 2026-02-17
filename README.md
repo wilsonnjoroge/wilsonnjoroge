@@ -111,7 +111,7 @@ Comprehensive vulnerability assessment of intentionally vulnerable systems using
 | Target | Final Report | Tool-Specific Reports |
 |--------|--------------|----------------------|
 | **Metasploitable2** | [📋 Final Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/drafts/final-report.md) | [Nmap](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/nmap/detailed-reports/metasploitable2-report.md) • [OpenVAS](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/openvas/detailed-reports/metasploitable2-report.md) • [Nessus](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/nessus/detailed-report/metasploitable2-nessus-report.md) • [Nikto](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/03-scanning/nikto/detailed-reports/metasploitable2-report.md) |
-| **DVWA** | 🔄 In Progress | - |
+| **DVWA** | [📋 Final Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/dvwa/05-reporting/drafts/final-report.md) | - |
 | **Juice Shop** | 🔄 In Progress | - |
 
 ---
