@@ -98,7 +98,7 @@ Comprehensive vulnerability assessment of intentionally vulnerable systems using
 
 | Document | Link |
 |----------|------|
-| Executive Summary | [View](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/executive-summary-report/metasploitable2-executive-summary.md) |
+| Executive Summary | [View](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/executive-summary-report/metasploitable2-executive-summary-report.md) |
 | Full Technical Report | [View](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/technical-report/metasploitable2-full-technical-report.md) |
 | Attack Chain Analysis | [View](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/analysis/attack-chain-analysis.md) |
 | OpenVAS Report | [View](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/vulnerability-scanning-reports/metasploitable2-openvas-report.md) |
