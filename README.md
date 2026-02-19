@@ -168,5 +168,6 @@ All testing in this portfolio is conducted on intentionally vulnerable systems i
 
 <div align="center">
   <p><strong>⭐ If you find my work valuable, please consider starring the projects</strong></p>
+    <p><strong>Wilson Njoroge Wanderi</strong></p>
   <p><em>Last Updated: 19th February 2026</em></p>
 </div>
