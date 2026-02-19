@@ -40,22 +40,6 @@ My background gives me a perspective most security practitioners don't have: I'v
 | Cybersecurity (CCST) | <img src="https://img.shields.io/badge/Cisco-CCST-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCST"/> | 🔄 In Progress |
 | MSc Cyber Security & Digital Forensics | <img src="https://ouk.ac.ke/sites/default/files/gallery/logo_footer.png" alt="OUK" height="50"/> | 🔄 In Progress |
 
-
-<table>
-  <tr>
-    <td align="center">
-      <br>
-      <b>Certified in Cybersecurity (CC)</b><br>
-      <i>ISC2 • Completed</i>
-    </td>
-    <td align="center">
-      <br>
-      <b>Cybersecurity (CCST)</b><br>
-      <i>Cisco • In Progress</i>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## Learning Philosophy
