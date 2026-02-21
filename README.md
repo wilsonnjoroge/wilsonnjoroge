@@ -96,6 +96,41 @@ Comprehensive vulnerability assessment of intentionally vulnerable systems using
 - 6 independent attack paths to full system compromise documented
 - 4-scanner cross-validation with false positive assessment
 
+<table>
+  <tr>
+    <th colspan="2" align="center">Metasploitable2</th>
+  </tr>
+  <tr>
+    <th>Document</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Executive Summary</td>
+    <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/executive-summary-report/metasploitable2-executive-summary-report.md">View Executive Summary Report</a></td>
+  </tr>
+  <tr>
+    <td>Full Technical Report</td>
+    <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/technical-report/metasploitable2-full-technical-report.md">View Full Technical Report</a></td>
+  </tr>
+  <tr>
+    <td>Attack Chain Analysis</td>
+    <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/analysis/attack-chain-analysis.md">View Attack Chain Analysis Report</a></td>
+  </tr>
+  <tr>
+    <td>OpenVAS Report</td>
+    <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/vulnerability-scanning-reports/metasploitable2-openvas-report.md">View OpenVAS Report</a></td>
+  </tr>
+  <tr>
+    <td>Nessus Report</td>
+    <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/vulnerability-scanning-reports/metasploitable2-nessus-report.md">View Nessus Report</a></td>
+  </tr>
+  <tr>
+    <td>Nmap Report</td>
+    <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/vulnerability-scanning-reports/metasploitable2-nmap-report.md">View Nmap Report</a></td>
+  </tr>
+</table>
+
+<!--
 | Document | Link |
 |----------|------|
 | Executive Summary | [View Executive Summary Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/executive-summary-report/metasploitable2-executive-summary-report.md) |
@@ -104,6 +139,7 @@ Comprehensive vulnerability assessment of intentionally vulnerable systems using
 | OpenVAS Report | [View OpenVAS Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/vulnerability-scanning-reports/metasploitable2-openvas-report.md) |
 | Nessus Report | [View Nessus Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/vulnerability-scanning-reports/metasploitable2-nessus-report.md) |
 | Nmap Report | [View Nmap Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/vulnerability-scanning-reports/metasploitable2-nmap-report.md) |
+-->
 
 **In progress:** DVWA, OWASP Juice Shop
 
