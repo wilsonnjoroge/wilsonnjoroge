@@ -39,6 +39,7 @@ My background gives me a perspective most security practitioners don't have: I'v
 | Certified in Cybersecurity (CC) | <img src="https://img.shields.io/badge/ISC2-CC-006400?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 CC"/> | ✅ Completed |
 | Cybersecurity (CCST) | <img src="https://img.shields.io/badge/Cisco-CCST-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCST"/> | 🔄 In Progress |
 | MSc Cyber Security & Digital Forensics | <img src="https://ouk.ac.ke/sites/default/files/gallery/logo_footer.png" alt="OUK" height="50"/> | 🔄 In Progress |
+| CompTIA Security+ | <img src="https://img.shields.io/badge/CompTIA-Security%2B-0096D6?style=for-the-badge&logo=compTIA&logoColor=white" alt="CompTIA Security+" /> | 🔄 In Progress |
 
 ---
 
