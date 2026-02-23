@@ -3,7 +3,7 @@
 > **From Backend Engineer to Security Professional**: A structured, hands-on journey through the complete attack-and-defense lifecycle.
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/wilson-njoroge-wanderi-ccep-isc2-cc-kcna-itil%C2%AE4-pho-33b615166/">
+    <a href="https://www.linkedin.com/in/wilson-njoroge-wanderi-ccep-cc-kcna-itil%C2%AE4-pho-33b615166/">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     &nbsp;
