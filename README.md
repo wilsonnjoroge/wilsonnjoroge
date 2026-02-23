@@ -18,6 +18,10 @@
     <a href="https://www.isc2.org/Certifications/CC">
         <img src="https://img.shields.io/badge/ISC2-CC-006400?style=flat-square" alt="ISC2 CC"/>
     </a>
+    &nbsp;
+    <a>
+        <img src="https://komarev.com/ghpvc/?username=wilsonnjoroge&label=Profile%20views&color=0e75b6&style=flat" alt="Wilson-Njoroge" />
+    </a>
 </p>
 
 ---
