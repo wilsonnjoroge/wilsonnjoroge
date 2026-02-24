@@ -95,7 +95,7 @@ Comprehensive vulnerability assessment of intentionally vulnerable systems using
 - Professional reporting: executive summary, technical report, attack chain analysis
 - False positive identification and assessor judgement
 
-**Completed target: Metasploitable2**
+**Target 1: Metasploitable2**
 - 47 vulnerabilities identified across 23 services
 - 14 Critical findings, 10 with confirmed public exploits
 - 6 independent attack paths to full system compromise documented
@@ -147,6 +147,44 @@ Comprehensive vulnerability assessment of intentionally vulnerable systems using
 -->
 
 **In progress:** DVWA, OWASP Juice Shop
+
+<!--
+**Target 2: DVWA**
+
+<table>
+  <tr>
+    <th colspan="2" align="center">DVWA</th>
+  </tr>
+  <tr>
+    <th>Document</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Executive Summary</td>
+    <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/executive-summary-report/metasploitable2-executive-summary-report.md">View Executive Summary Report</a></td>
+  </tr>
+  <tr>
+    <td>Full Technical Report</td>
+    <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/technical-report/metasploitable2-full-technical-report.md">View Full Technical Report</a></td>
+  </tr>
+  <tr>
+    <td>Attack Chain Analysis</td>
+    <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/analysis/attack-chain-analysis.md">View Attack Chain Analysis Report</a></td>
+  </tr>
+  <tr>
+    <td>OpenVAS Report</td>
+    <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/vulnerability-scanning-reports/metasploitable2-openvas-report.md">View OpenVAS Report</a></td>
+  </tr>
+  <tr>
+    <td>Nessus Report</td>
+    <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/vulnerability-scanning-reports/metasploitable2-nessus-report.md">View Nessus Report</a></td>
+  </tr>
+  <tr>
+    <td>Nmap Report</td>
+    <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/vulnerability-scanning-reports/metasploitable2-nmap-report.md">View Nmap Report</a></td>
+  </tr>
+</table>
+-->
 
 ---
 
