@@ -1,4 +1,4 @@
-# Wilson Njoroge Wanderi — Cybersecurity Portfolio.
+# Wilson Njoroge Wanderi — Cybersecurity Portfolio
 
 > **From Backend Engineer to Security Professional**: A structured, hands-on journey through the complete attack-and-defense lifecycle.
 
@@ -49,7 +49,7 @@ My background gives me a perspective most security practitioners don't have: I'v
 
 ## Learning Philosophy
 
-I'm building security expertise by following how attacks and defenses actually unfold — progressing through the complete lifecycle rather than jumping to exploitation:
+I'm building security expertise by following how attacks and defenses actually unfold, progressing through the complete lifecycle rather than jumping to exploitation:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
