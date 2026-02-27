@@ -36,7 +36,7 @@ My background gives me a perspective most security practitioners don't have: I'v
 
 ---
 
-## Certifications
+## Certifications.
 
 | Certification | Issuer | Status |
 |--------------|--------|--------|
