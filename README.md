@@ -1,4 +1,4 @@
-# Wilson Njoroge Wanderi — Cybersecurity Portfolio.
+# Wilson Njoroge Wanderi — Cybersecurity Portfolio
 
 > **From Backend Engineer to Security Professional**: A structured, hands-on journey through the complete attack-and-defense lifecycle.
 
@@ -26,9 +26,9 @@
 
 ---
 
-## About Me
+## About Me:
 
-I'm a backend and enterprise middleware engineer with hands-on experience in Oracle SOA Suite, WebLogic, Service Bus, and cloud-native integration platforms. I understand how enterprise systems are designed, built, and operated at scale — and now I'm applying that foundation to security.
+I'm a backend and enterprise middleware engineer with hands-on experience in Java (SpringBoot), NodeJs (Express), C# (ASP.Net Core), Oracle SOA Suite, WebLogic, Service Bus, and cloud-native integration platforms. I understand how enterprise systems are designed, built, and operated at scale — and now I'm applying that foundation to security.
 
 Currently pursuing an **MSc in Cyber Security and Digital Forensics**, I approach security not as a user of tools, but as someone who understands the systems being secured.
 
