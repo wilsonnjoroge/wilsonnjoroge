@@ -194,7 +194,7 @@ Comprehensive vulnerability assessment of intentionally vulnerable systems using
 Controlled exploitation of validated vulnerabilities from Phase 1. Demonstrates the difference between theoretical vulnerability and confirmed exploitability — and what real-world impact looks like.
 
 ---
-
+<!--
 ### Phase 3 — SIEM & Detection Engineering
 **Repository:** [siem-detection-lab](https://github.com/wilsonnjoroge/siem-detection-lab) | 🗓 **Planned**
 
@@ -222,6 +222,8 @@ Cloud IAM hardening, container security, and IaC security on AWS, Azure, and Kub
 Full incident response lifecycle from initial detection through forensic analysis and post-incident hardening.
 
 ---
+
+-->
 
 ## Technical Skills
 
