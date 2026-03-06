@@ -26,7 +26,7 @@
 
 ---
 
-## About Me:-
+## About Me:
 
 I'm a backend and enterprise middleware engineer with hands-on experience in Java (SpringBoot), NodeJs (Express), C# (ASP.Net Core), Oracle SOA Suite, WebLogic, Service Bus, and cloud-native integration platforms. I understand how enterprise systems are designed, built, and operated at scale and now I'm applying that foundation to security.
 
