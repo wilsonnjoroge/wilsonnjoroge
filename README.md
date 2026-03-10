@@ -1,6 +1,6 @@
 # Wilson Njoroge Wanderi : Cybersecurity Portfolio. 
 
-> **From Backend Engineer to Security Professional**: A structured, hands-on journey through the complete attack-and-defense lifecycle.
+> **From Backend Engineer to Security Professional**: A structured, hands-on journey through the complete attack-and-defense lifecycle
 
 <p align="center">
     <a href="https://www.linkedin.com/in/wilson-njoroge-wanderi-ccep-cc-kcna-itil%C2%AE4-pho-33b615166/">
