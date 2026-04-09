@@ -81,9 +81,9 @@ Each phase builds on the previous. This is how security programs mature — and 
 
 ---
 
-## Projects
+# Projects
 
-### Phase 1 — Vulnerability Assessment & Management
+## 1 - Vulnerability Assessment & Management
 **Repository:** [vulnerability-assessment](https://github.com/wilsonnjoroge/vulnerability-assessment) | ✅ **Completed**
 
 Comprehensive vulnerability assessment of intentionally vulnerable systems using enterprise-grade tools and methodology. Full 7-phase assessment lifecycle: pre-engagement through prioritised remediation reporting.
@@ -188,8 +188,15 @@ Comprehensive vulnerability assessment of intentionally vulnerable systems using
 
 ---
 
-### Phase 2 — Penetration Testing
+## 2 - Penetration Testing
 **Repository:** [penetration-testing](https://github.com/wilsonnjoroge/penetration-testing) | 🗓 **Planned**
+
+Controlled exploitation of validated vulnerabilities from Phase 1. Demonstrates the difference between theoretical vulnerability and confirmed exploitability — and what real-world impact looks like.
+
+---
+
+## 3 - Password Strength Checker
+**Repository:** [penetration-testing](https://github.com/wilsonnjoroge/penetration-testing) | ✅ **Completed**
 
 Controlled exploitation of validated vulnerabilities from Phase 1. Demonstrates the difference between theoretical vulnerability and confirmed exploitability — and what real-world impact looks like.
 
