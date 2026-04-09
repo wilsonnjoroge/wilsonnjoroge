@@ -198,7 +198,35 @@ Controlled exploitation of validated vulnerabilities from Phase 1. Demonstrates 
 ## 3 - Password Strength Checker
 **Repository:** [Password-Strength-Checker](https://github.com/wilsonnjoroge/Password-Strength-Checker) | ✅ **Completed**
 
-Controlled exploitation of validated vulnerabilities from Phase 1. Demonstrates the difference between theoretical vulnerability and confirmed exploitability — and what real-world impact looks like.
+
+    A full‑featured cybersecurity project built with Python and Flask to evaluate password security in real time. 
+    The application provides entropy analysis, crack‑time estimation, and breach detection using the HaveIBeenPwned API, 
+    while also checking against a local blocklist of common passwords.
+
+    Key Features:
+    Real‑time feedback with an animated strength meter and per‑criterion checklist
+
+    Entropy calculation and human‑readable crack‑time estimation
+
+    Detection of weak patterns (repeated, sequential, keyboard walks)
+
+    Integration with HaveIBeenPwned (k‑anonymity lookup) for breach status
+
+    Actionable improvement tips and session history for user learning
+
+
+    Tech Stack: Python 3.12, Flask, HTML5, CSS3, Vanilla JS, HaveIBeenPwned API
+
+
+    Impact: 
+
+    This project demonstrates practical cybersecurity awareness, backend development skills, and user‑focused design. It’s designed as both a portfolio piece and a tool to educate users on building stronger, more resilient passwords.
+    
+
+
+
+
+
 
 ---
 <!--
