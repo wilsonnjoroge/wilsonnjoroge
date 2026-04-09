@@ -26,13 +26,19 @@
 
 ---
 
-## About Me:
+👋 About Me
 
-I'm a backend and enterprise middleware engineer with hands-on experience in Java (SpringBoot), NodeJs (Express), C# (ASP.Net Core), Oracle SOA Suite, WebLogic, Service Bus, and cloud-native integration platforms. I understand how enterprise systems are designed, built, and operated at scale and now I'm applying that foundation to security.
+I’m a Cyber Security & Digital Forensics engineer with a strong foundation in backend and enterprise middleware development. My background spans Java (Spring Boot), Node.js (Express), C# (ASP.Net Core), Oracle SOA Suite, WebLogic, and Service Bus, giving me deep insight into how enterprise systems are designed, integrated, and operated at scale.
 
-Currently pursuing an **MSc in Cyber Security and Digital Forensics**, I approach security not as a user of tools, but as someone who understands the systems being secured.
+Currently pursuing an MSc in Cyber Security & Digital Forensics, I focus on:
 
-My background gives me a perspective most security practitioners don't have: I've built and integrated the kinds of enterprise systems that vulnerability assessments target. I know what's behind the services I'm scanning.
+    Incident Response & Forensic Analysis — memory acquisition, disk imaging, and evidence preservation
+
+    Vulnerability Assessment & Threat Hunting — identifying weaknesses with an understanding of the systems behind them
+
+    Secure System Design — applying builder’s knowledge to strengthen authentication, integration, and cloud‑native platforms
+
+My unique perspective comes from having built the systems that security practitioners assess. This allows me to bridge the gap between development and defense, ensuring investigations and protections are both technically rigorous and operationally relevant.
 
 ---
 
