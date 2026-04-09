@@ -196,7 +196,7 @@ Controlled exploitation of validated vulnerabilities from Phase 1. Demonstrates 
 ---
 
 ## 3 - Password Strength Checker
-**Repository:** [penetration-testing](https://github.com/wilsonnjoroge/penetration-testing) | ✅ **Completed**
+**Repository:** [Password-Strength-Checker](https://github.com/wilsonnjoroge/Password-Strength-Checker) | ✅ **Completed**
 
 Controlled exploitation of validated vulnerabilities from Phase 1. Demonstrates the difference between theoretical vulnerability and confirmed exploitability — and what real-world impact looks like.
 
