@@ -47,7 +47,6 @@ My unique perspective comes from having built the systems that security practiti
 | Certification | Issuer | Status |
 |--------------|--------|--------|
 | Certified in Cybersecurity (CC) | <img src="https://img.shields.io/badge/ISC2-CC-006400?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 CC"/> | ✅ Completed |
-| Cybersecurity (CCST) | <img src="https://img.shields.io/badge/Cisco-CCST-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCST"/> | 🔄 In Progress |
 | MSc Cyber Security & Digital Forensics | <img src="https://ouk.ac.ke/sites/default/files/gallery/logo_footer.png" alt="OUK" height="50"/> | 🔄 In Progress |
 | CompTIA Security+ | <img src="https://img.shields.io/badge/CompTIA-Security%2B-0096D6?style=for-the-badge&logo=compTIA&logoColor=white" alt="CompTIA Security+" /> | 🔄 In Progress |
 
@@ -129,15 +128,15 @@ Comprehensive vulnerability assessment of intentionally vulnerable systems using
   </tr>
   <tr>
     <td>OpenVAS Report</td>
-    <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/vulnerability-scanning-reports/metasploitable2-openvas-report.md">View OpenVAS Report</a></td>
+    <td><a href="https://github.com/wilsonnjoroge/OpenVAS-Metasploitable-Vulnerability-Assessment">View OpenVAS Report</a></td>
   </tr>
   <tr>
     <td>Nessus Report</td>
-    <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/vulnerability-scanning-reports/metasploitable2-nessus-report.md">View Nessus Report</a></td>
+    <td><a href="https://github.com/wilsonnjoroge/Nessus-Metasploitable-Vulnerability-Assessment/">View Nessus Report</a></td>
   </tr>
   <tr>
     <td>Nmap Report</td>
-    <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/vulnerability-scanning-reports/metasploitable2-nmap-report.md">View Nmap Report</a></td>
+    <td><a href="https://github.com/wilsonnjoroge/Nmap-Metasploitable-Vulnerability-Assessment">View Nmap Report</a></td>
   </tr>
 </table>
 
