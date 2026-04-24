@@ -32,11 +32,11 @@ I’m a Cyber Security & Digital Forensics engineer with a strong foundation in 
 
 Currently pursuing an MSc in Cyber Security & Digital Forensics, I focus on:
 
-    Incident Response & Forensic Analysis — memory acquisition, disk imaging, and evidence preservation
+* Incident Response & Forensic Analysis — memory acquisition, disk imaging, and evidence preservation
 
-    Vulnerability Assessment & Threat Hunting — identifying weaknesses with an understanding of the systems behind them
+* Vulnerability Assessment & Threat Hunting — identifying weaknesses with an understanding of the systems behind them
 
-    Secure System Design — applying builder’s knowledge to strengthen authentication, integration, and cloud‑native platforms
+* Secure System Design — applying builder’s knowledge to strengthen authentication, integration, and cloud‑native platforms
 
 My unique perspective comes from having built the systems that security practitioners assess. This allows me to bridge the gap between development and defense, ensuring investigations and protections are both technically rigorous and operationally relevant.
 
@@ -201,7 +201,7 @@ Controlled exploitation of validated vulnerabilities from Phase 1. Demonstrates 
 ---
 
 ## 3 - Password Strength Checker
-**Repository:** [Password-Strength-Checker](https://github.com/wilsonnjoroge/Password-Strength-Checker) | ✅ **Completed**
+**Repository:**  [Password-Strength-Checker](https://github.com/wilsonnjoroge/Password-Strength-Checker) 
 
 
     A full‑featured cybersecurity project built with Python and Flask to evaluate password security in real time. 
