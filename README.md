@@ -1,6 +1,6 @@
-# Wilson Njoroge Wanderi : Cybersecurity Portfolio. 
+# Wilson Njoroge Wanderi — Cybersecurity Portfolio
 
-> **From Backend Engineer to Security Professional**: A structured, hands-on journey through the complete attack-and-defense lifecycle
+> **From Backend Engineer to Security Professional** — a structured, hands-on journey through the complete attack-and-defense lifecycle.
 
 <p align="center">
     <a href="https://www.linkedin.com/in/wilson-njoroge-wanderi-ccep-cc-kcna-itil%C2%AE4-pho-33b615166/">
@@ -19,258 +19,221 @@
         <img src="https://img.shields.io/badge/ISC2-CC-006400?style=flat-square" alt="ISC2 CC"/>
     </a>
     &nbsp;
-    <a>
-        <img src="https://komarev.com/ghpvc/?username=wilsonnjoroge&label=Profile%20views&color=0e75b6&style=flat" alt="Wilson-Njoroge" />
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=wilsonnjoroge&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
 
-👋 About Me
+## About Me
 
-I’m a Cyber Security & Digital Forensics engineer with a strong foundation in backend and enterprise middleware development. My background spans Java (Spring Boot), Node.js (Express), C# (ASP.Net Core), Oracle SOA Suite, WebLogic, and Service Bus, giving me deep insight into how enterprise systems are designed, integrated, and operated at scale.
+I'm a Cybersecurity & Digital Forensics engineer with a strong foundation in backend and enterprise middleware development — Java (Spring Boot), Node.js, C# (ASP.NET Core), Oracle SOA Suite, WebLogic, and Service Bus. I've spent years building the systems that security practitioners assess, which gives me a rare perspective: I understand both how systems break and why they were built that way.
 
-Currently pursuing an MSc in Cyber Security & Digital Forensics, I focus on:
-
-* Incident Response & Forensic Analysis — memory acquisition, disk imaging, and evidence preservation
-
-* Vulnerability Assessment & Threat Hunting — identifying weaknesses with an understanding of the systems behind them
-
-* Secure System Design — applying builder’s knowledge to strengthen authentication, integration, and cloud‑native platforms
-
-My unique perspective comes from having built the systems that security practitioners assess. This allows me to bridge the gap between development and defense, ensuring investigations and protections are both technically rigorous and operationally relevant.
+Currently pursuing an MSc in Cyber Security & Digital Forensics, I'm working through the complete security lifecycle — not just the offensive side. Every project here is documented end-to-end: from pre-engagement setup and evidence capture through to professional reporting.
 
 ---
 
-## Certifications.
+## Certifications
 
 | Certification | Issuer | Status |
-|--------------|--------|--------|
-| Certified in Cybersecurity (CC) | <img src="https://img.shields.io/badge/ISC2-CC-006400?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 CC"/> | ✅ Completed |
-| MSc Cyber Security & Digital Forensics | <img src="https://ouk.ac.ke/sites/default/files/gallery/logo_footer.png" alt="OUK" height="50"/> | 🔄 In Progress |
-| CompTIA Security+ | <img src="https://img.shields.io/badge/CompTIA-Security%2B-0096D6?style=for-the-badge&logo=compTIA&logoColor=white" alt="CompTIA Security+" /> | 🔄 In Progress |
+|---|---|---|
+| Certified in Cybersecurity (CC) | ISC2 | ✅ Completed |
+| MSc Cyber Security & Digital Forensics | Open University of Kenya | 🔄 In Progress |
+| CompTIA Security+ | CompTIA | 🔄 In Progress |
 
 ---
 
 ## Learning Philosophy
 
-I'm building security expertise by following how attacks and defenses actually unfold, progressing through the complete lifecycle rather than jumping to exploitation:
+Security expertise built the right way — following the full attack-and-defense lifecycle in sequence:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                  SECURITY LIFECYCLE                         │
+│                    SECURITY LIFECYCLE                       │
 ├─────────────────────────────────────────────────────────────┤
+│  1. IDENTIFY  → What's vulnerable and why?                  │
+│     Vulnerability Assessment & Management          ✅ Active │
 │                                                             │
-│  1. IDENTIFY → What's vulnerable and why?                   │
-│     (Vulnerability Assessment & Management)                 │
+│  2. EXPLOIT   → How are weaknesses actually attacked?       │
+│     Controlled Penetration Testing              🔄 Planned  │
 │                                                             │
-│  2. EXPLOIT → How are weaknesses actually attacked?         │
-│     (Controlled Penetration Testing)                        │
+│  3. DETECT    → How do we see attacks happening?            │
+│     SIEM / SOC & Security Monitoring            🔄 Planned  │
 │                                                             │
-│  3. DETECT → How do we see attacks happening?               │
-│     (SIEM/SOC & Security Monitoring)                        │
+│  4. PREVENT   → How do we stop vulnerabilities at source?   │
+│     Application Security & Secure Development   🔄 Planned  │
 │                                                             │
-│  4. PREVENT → How do we stop vulnerabilities at the source? │
-│     (Application Security & Secure Development)             │
+│  5. SECURE    → How do we architect secure environments?    │
+│     Cloud & Infrastructure Security             🔄 Planned  │
 │                                                             │
-│  5. SECURE → How do we architect secure environments?       │
-│     (Cloud & Infrastructure Security)                       │
-│                                                             │
-│  6. RESPOND → How do we handle security incidents?          │
-│     (Incident Response & Digital Forensics)                 │
-│                                                             │
+│  6. RESPOND   → How do we handle security incidents?        │
+│     Incident Response & Digital Forensics       🔄 Planned  │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-Each phase builds on the previous. This is how security programs mature — and how I'm structuring my learning.
+---
+
+## Projects
 
 ---
 
-# Projects
+### Phase 1 — Vulnerability Assessment & Management ✅
 
-## 1 - Vulnerability Assessment & Management
-**Repository:** [vulnerability-assessment](https://github.com/wilsonnjoroge/vulnerability-assessment) | ✅ **Completed**
+> Comprehensive vulnerability assessment of Metasploitable2 using enterprise-grade tools and a structured 7-phase methodology. Each scanner is a standalone repository with full evidence, raw results, screenshots, and a professional technical report.
 
-Comprehensive vulnerability assessment of intentionally vulnerable systems using enterprise-grade tools and methodology. Full 7-phase assessment lifecycle: pre-engagement through prioritised remediation reporting.
+#### Metasploitable2 — Master Report
 
-**What this demonstrates:**
-- Cross-scanner validation (Nmap NSE + OpenVAS + Nessus + Nikto)
-- CVE/CVSS analysis and risk prioritisation beyond raw scanner output
-- Manual service enumeration across 13+ services
-- Professional reporting: executive summary, technical report, attack chain analysis
-- False positive identification and assessor judgement
-
-**Target 1: Metasploitable2**
-- 47 vulnerabilities identified across 23 services
-- 14 Critical findings, 10 with confirmed public exploits
-- 6 independent attack paths to full system compromise documented
-- 4-scanner cross-validation with false positive assessment
-
-<table>
-  <tr>
-    <th colspan="2" align="center">Metasploitable2</th>
-  </tr>
-  <tr>
-    <th>Document</th>
-    <th>Link</th>
-  </tr>
-     <tr>
-    <td>OpenVAS Repository</td>
-    <td><a href="https://github.com/wilsonnjoroge/OpenVAS-Metasploitable-Vulnerability-Assessment">View OpenVAS Repository</a></td>
-  </tr>
-  <tr>
-    <td>Nessus Repository</td>
-    <td><a href="https://github.com/wilsonnjoroge/Nessus-Metasploitable-Vulnerability-Assessment/">View Nessus Repository</a></td>
-  </tr>
-  <tr>
-    <td>Nmap Repository</td>
-    <td><a href="https://github.com/wilsonnjoroge/Nmap-Metasploitable-Vulnerability-Assessment">View Nmap Repository</a></td>
-  </tr>
-  <tr>
-    <td>Executive Summary</td>
-    <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/executive-summary-report/metasploitable2-executive-summary-report.md">View Executive Summary Report</a></td>
-  </tr>
-  <tr>
-    <td>Full Technical Report</td>
-    <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/technical-report/metasploitable2-full-technical-report.md">View Full Technical Report</a></td>
-  </tr>
-  <tr>
-    <td>Attack Chain Analysis</td>
-    <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/analysis/attack-chain-analysis.md">View Attack Chain Analysis Report</a></td>
-  </tr>
-</table>
-
-<!--
 | Document | Link |
-|----------|------|
-| Executive Summary | [View Executive Summary Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/executive-summary-report/metasploitable2-executive-summary-report.md) |
-| Full Technical Report | [View Full Technical Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/technical-report/metasploitable2-full-technical-report.md) |
-| Attack Chain Analysis | [View Attack Chain Analysis Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/analysis/attack-chain-analysis.md) |
-| OpenVAS Report | [View OpenVAS Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/vulnerability-scanning-reports/metasploitable2-openvas-report.md) |
-| Nessus Report | [View Nessus Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/vulnerability-scanning-reports/metasploitable2-nessus-report.md) |
-| Nmap Report | [View Nmap Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/vulnerability-scanning-reports/metasploitable2-nmap-report.md) |
--->
+|---|---|
+| Executive Summary | [View Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/reports/metasploitable2-executive-summary-report.md) |
+| Full Technical Report | [View Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/reports/metasploitable2-full-technical-report.md) |
+| Attack Chain Analysis | [View Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/reports/metasploitable2-attack-chains-analysis.md) |
 
-**In progress:** DVWA, OWASP Juice Shop
+---
 
-<!--
-**Target 2: DVWA**
+#### Scanner Repositories
 
 <table>
   <tr>
-    <th colspan="2" align="center">DVWA</th>
+    <th>Tool</th>
+    <th>Repository</th>
+    <th>What Was Done</th>
+    <th>Key Output</th>
   </tr>
   <tr>
-    <th>Document</th>
-    <th>Link</th>
+    <td>🔍 Nmap</td>
+    <td><a href="https://github.com/wilsonnjoroge/Nmap-Metasploitable-Vulnerability-Assessment">Nmap Repo</a></td>
+    <td>8 scan types: initial, service/version, full port (-p-), aggressive, UDP top-100, UDP common, vuln scripts, safe scripts</td>
+    <td><a href="https://github.com/wilsonnjoroge/Nmap-Metasploitable-Vulnerability-Assessment/blob/main/04-reporting/metasploitable2-full-technical-report.md">Technical Report</a></td>
   </tr>
   <tr>
-    <td>Executive Summary</td>
-    <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/executive-summary-report/metasploitable2-executive-summary-report.md">View Executive Summary Report</a></td>
+    <td>🛡 OpenVAS</td>
+    <td><a href="https://github.com/wilsonnjoroge/OpenVAS-Metasploitable-Vulnerability-Assessment">OpenVAS Repo</a></td>
+    <td>Full GVM/OpenVAS setup from scratch, authenticated scan, PDF + CSV export</td>
+    <td><a href="https://github.com/wilsonnjoroge/OpenVAS-Metasploitable-Vulnerability-Assessment/blob/main/04-reporting/metasploitable2-full-technical-report.md">Technical Report</a></td>
   </tr>
   <tr>
-    <td>Full Technical Report</td>
-    <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/technical-report/metasploitable2-full-technical-report.md">View Full Technical Report</a></td>
+    <td>🔎 Nessus</td>
+    <td><a href="https://github.com/wilsonnjoroge/Nessus-Metasploitable-Vulnerability-Assessment">Nessus Repo</a></td>
+    <td>Nessus Essentials install, basic network scan policy, full results analysis</td>
+    <td><a href="https://github.com/wilsonnjoroge/Nessus-Metasploitable-Vulnerability-Assessment/blob/main/04-reporting/metasploitable2-full-technical-report.md">Technical Report</a></td>
   </tr>
   <tr>
-    <td>Attack Chain Analysis</td>
-    <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/analysis/attack-chain-analysis.md">View Attack Chain Analysis Report</a></td>
+    <td>🌐 Nikto</td>
+    <td><a href="https://github.com/wilsonnjoroge/Nikto-Metasploitable-Vulnerability-Assessment">Nikto Repo</a></td>
+    <td>HTTP default scan, defined-ports scan, SSL scan against web services</td>
+    <td><a href="https://github.com/wilsonnjoroge/Nikto-Metasploitable-Vulnerability-Assessment/blob/main/05-reporting/metasploitable2-nikto-report.md">Technical Report</a></td>
   </tr>
   <tr>
-    <td>OpenVAS Report</td>
-    <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/vulnerability-scanning-reports/metasploitable2-openvas-report.md">View OpenVAS Report</a></td>
-  </tr>
-  <tr>
-    <td>Nessus Report</td>
-    <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/vulnerability-scanning-reports/metasploitable2-nessus-report.md">View Nessus Report</a></td>
-  </tr>
-  <tr>
-    <td>Nmap Report</td>
-    <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/vulnerability-scanning-reports/metasploitable2-nmap-report.md">View Nmap Report</a></td>
+    <td>🖥 Manual Enumeration</td>
+    <td><a href="https://github.com/wilsonnjoroge/Manual-Enumeration-Metasploitable">Manual Enumeration Repo</a></td>
+    <td>13 services manually enumerated: SSH, FTP, Telnet, SMTP, DNS, HTTP, Tomcat, MySQL, PostgreSQL, RPC/NFS, Java RMI, X11, Web</td>
+    <td><a href="https://github.com/wilsonnjoroge/Manual-Enumeration-Metasploitable/blob/main/05-reporting/metasploitable2-full-technical-report.md">Technical Report</a></td>
   </tr>
 </table>
--->
+
+#### Manual Enumeration — Services Covered
+
+| Service | Port | Techniques Used |
+|---|---|---|
+| SSH | 22 | Version detection, algorithm enumeration, auth method testing, credential testing |
+| FTP | 21 | Banner grab, anonymous login test, version fingerprinting |
+| Telnet | 23 | Banner grab, connection test, traffic capture (Wireshark .pcap) |
+| SMTP | 25 | Version detection, VRFY user enumeration, open relay test |
+| DNS | 53 | dig queries, version script, recursion test |
+| HTTP / Web | 80 | dirb, gobuster, technology fingerprinting, curl enumeration |
+| Apache Tomcat | 8180 | Service enum, web enum, directory bruteforce, manager interface check |
+| MySQL | 3306 | Credential test, full session enumeration |
+| PostgreSQL | 5432 | Credential test, full session enumeration |
+| RPC / NFS | 111/2049 | Port scan, rpcinfo dump, NFS script verification |
+| Java RMI | 1099 | Version detection, registry dump |
+| X11 | 6000 | Service detection, access test |
+| Banner Analysis | All | Custom bash script across all open ports |
 
 ---
 
-## 2 - Penetration Testing
-**Repository:** [penetration-testing](https://github.com/wilsonnjoroge/penetration-testing) | 🗓 **Planned**
+### Phase 1 (Bonus) — Digital Forensics: PhotoRec File Recovery
 
-Controlled exploitation of validated vulnerabilities from Phase 1. Demonstrates the difference between theoretical vulnerability and confirmed exploitability — and what real-world impact looks like.
+**Repository:** [PhotoRec-Recovery](https://github.com/wilsonnjoroge/PhotoRec-Recovery)
 
----
+Practical file recovery exercise using PhotoRec on Linux. Covers image selection, file signature configuration, and recovery of deleted files from a disk image.
 
-## 3 - Password Strength Checker
-**Repository:**  [Password-Strength-Checker](https://github.com/wilsonnjoroge/Password-Strength-Checker) 
-
-
-    A full‑featured cybersecurity project built with Python and Flask to evaluate password security in real time. 
-    The application provides entropy analysis, crack‑time estimation, and breach detection using the HaveIBeenPwned API, 
-    while also checking against a local blocklist of common passwords.
-
-    Key Features:
-    Real‑time feedback with an animated strength meter and per‑criterion checklist
-
-    Entropy calculation and human‑readable crack‑time estimation
-
-    Detection of weak patterns (repeated, sequential, keyboard walks)
-
-    Integration with HaveIBeenPwned (k‑anonymity lookup) for breach status
-
-    Actionable improvement tips and session history for user learning
-
-
-    Tech Stack: Python 3.12, Flask, HTML5, CSS3, Vanilla JS, HaveIBeenPwned API
-
-
-    Impact: 
-
-    This project demonstrates practical cybersecurity awareness, backend development skills, and user‑focused design. It’s designed as both a portfolio piece and a tool to educate users on building stronger, more resilient passwords.
-    
-
-
-
-
-
-
----
-<!--
-### Phase 3 — SIEM & Detection Engineering
-**Repository:** [siem-detection-lab](https://github.com/wilsonnjoroge/siem-detection-lab) | 🗓 **Planned**
-
-Detection rule development and log correlation using ELK Stack. Will use Phase 2 attack telemetry as the detection target — closing the loop between offensive findings and defensive visibility.
+| Evidence | Description |
+|---|---|
+| `Photorec-Linux-Image-Selection.png` | Target image selection |
+| `Photorec-Linux-File-Signatures-To-Recover.png` | Configured file types |
+| `Photorec-Linux-File-Recovery-1.png` | Recovery in progress |
+| `Photorec-Linux-File-Recovered-Docs-1.png` | Recovered files |
 
 ---
 
-### Phase 4 — Application Security
-**Repository:** [application-security](https://github.com/wilsonnjoroge/application-security) | 🗓 **Planned**
+### Phase 2 — Penetration Testing 🔄 In Progress
 
-OWASP Top 10 analysis, threat modelling (STRIDE), and secure code review. Maps web vulnerabilities found in Phase 1 to root cause insecure coding patterns.
+**Repository:** [penetration-testing](https://github.com/wilsonnjoroge/penetration-testing)
 
----
-
-### Phase 5 — Cloud Security
-**Repository:** [cloud-security](https://github.com/wilsonnjoroge/cloud-security) | 🗓 **Planned**
-
-Cloud IAM hardening, container security, and IaC security on AWS, Azure, and Kubernetes.
+Controlled exploitation of validated vulnerabilities from Phase 1. Targets: Metasploitable2, DVWA, OWASP Juice Shop.
 
 ---
 
-### Phase 6 — Incident Response & DFIR
-**Repository:** [incident-response](https://github.com/wilsonnjoroge/incident-response) | 🗓 **Planned**
+### Phase 3 — SIEM & Detection Engineering 🗓 Planned
 
-Full incident response lifecycle from initial detection through forensic analysis and post-incident hardening.
+**Repository:** [siem-detection-lab](https://github.com/wilsonnjoroge/siem-detection-lab)
+
+Detection rule development and log correlation using ELK Stack. Will use Phase 2 attack telemetry as the detection target.
 
 ---
 
--->
+### Phase 4 — Application Security 🗓 Planned
+
+**Repository:** [application-security](https://github.com/wilsonnjoroge/application-security)
+
+OWASP Top 10, threat modelling (STRIDE), DAST/SAST tooling, secure coding practices.
+
+---
+
+### Phase 5 — Cloud Security 🗓 Planned
+
+**Repository:** [cloud-security](https://github.com/wilsonnjoroge/cloud-security)
+
+Cloud IAM hardening, container security, IaC security on AWS, Azure, and Kubernetes.
+
+---
+
+### Phase 6 — Incident Response & DFIR 🗓 Planned
+
+**Repository:** [incident-response](https://github.com/wilsonnjoroge/incident-response)
+
+Full incident response lifecycle from detection through forensic analysis and post-incident hardening.
+
+---
+
+### Bonus — Password Strength Checker
+
+**Repository:** [Password-Strength-Checker](https://github.com/wilsonnjoroge/Password-Strength-Checker)
+
+A full-featured Python/Flask application for real-time password security evaluation. Features entropy analysis, crack-time estimation, HaveIBeenPwned breach detection (k-anonymity), pattern detection (repeats, sequences, keyboard walks), and actionable improvement tips.
+
+**Stack:** Python 3.12, Flask, HTML5, CSS3, Vanilla JS, HaveIBeenPwned API
+
+---
+
+## Scripts & Automation
+
+**Location:** [scripts/auto-scan.sh](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/scripts/auto-scan.sh)
+
+Automated scanning script used across vulnerability assessment engagements to standardise scan execution and output formatting.
+
+---
 
 ## Technical Skills
 
-**Security tools:** Nessus, OpenVAS, Nmap, Nikto, Wireshark, Metasploit, Burp Suite  
-**Enterprise platforms:** Oracle SOA Suite, WebLogic, Service Bus, Java EE  
-**Cloud & infrastructure:** AWS, Docker, Kubernetes, Linux (Kali/Ubuntu), Windows  
-**Languages:** Java(SpringBooot), Python, Shell(Bash), C#(ASP.Net Core, NodeJs(Express)  
+| Category | Tools & Technologies |
+|---|---|
+| **Security Tools** | Nmap, Nessus, OpenVAS, Nikto, Wireshark, Metasploit, Burp Suite, PhotoRec |
+| **Enumeration** | dirb, gobuster, enum4linux, dig, rpcinfo, manual service enumeration |
+| **Enterprise Platforms** | Oracle SOA Suite, WebLogic, Service Bus, Java EE |
+| **Cloud & Infrastructure** | AWS, Docker, Kubernetes, Linux (Kali/Ubuntu), Windows |
+| **Languages** | Java (Spring Boot), Python, Bash, C# (ASP.NET Core), Node.js (Express) |
+| **Reporting** | Markdown, executive summaries, technical reports, attack chain analysis |
 
 ---
 
@@ -280,15 +243,19 @@ All testing in this portfolio is conducted on intentionally vulnerable systems i
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=wilsonnjoroge&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wilsonnjoroge&theme=dark)<br/>
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=wilsonnjoroge&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=wilsonnjoroge&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonnjoroge&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 <div align="center">
-  <p><strong>⭐ If you find my work valuable, please consider starring the projects</strong></p>
-    <p><strong>Wilson Njoroge Wanderi</strong></p>
-  <p><em>Last Updated: 19th February 2026</em></p>
+
+⭐ **If you find my work valuable, please consider starring the projects**
+
+**Wilson Njoroge Wanderi**
+*Last Updated: April 2026*
+
 </div>
