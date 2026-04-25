@@ -114,6 +114,18 @@ Comprehensive vulnerability assessment of intentionally vulnerable systems using
     <th>Document</th>
     <th>Link</th>
   </tr>
+     <tr>
+    <td>OpenVAS Repository</td>
+    <td><a href="https://github.com/wilsonnjoroge/OpenVAS-Metasploitable-Vulnerability-Assessment">View OpenVAS Repository</a></td>
+  </tr>
+  <tr>
+    <td>Nessus Repository</td>
+    <td><a href="https://github.com/wilsonnjoroge/Nessus-Metasploitable-Vulnerability-Assessment/">View Nessus Repository</a></td>
+  </tr>
+  <tr>
+    <td>Nmap Repository</td>
+    <td><a href="https://github.com/wilsonnjoroge/Nmap-Metasploitable-Vulnerability-Assessment">View Nmap Repository</a></td>
+  </tr>
   <tr>
     <td>Executive Summary</td>
     <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/executive-summary-report/metasploitable2-executive-summary-report.md">View Executive Summary Report</a></td>
@@ -125,18 +137,6 @@ Comprehensive vulnerability assessment of intentionally vulnerable systems using
   <tr>
     <td>Attack Chain Analysis</td>
     <td><a href="https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/metasploitable2/05-reporting/analysis/attack-chain-analysis.md">View Attack Chain Analysis Report</a></td>
-  </tr>
-  <tr>
-    <td>OpenVAS Repository</td>
-    <td><a href="https://github.com/wilsonnjoroge/OpenVAS-Metasploitable-Vulnerability-Assessment">View OpenVAS Repository</a></td>
-  </tr>
-  <tr>
-    <td>Nessus Repository</td>
-    <td><a href="https://github.com/wilsonnjoroge/Nessus-Metasploitable-Vulnerability-Assessment/">View Nessus Repository</a></td>
-  </tr>
-  <tr>
-    <td>Nmap Repository</td>
-    <td><a href="https://github.com/wilsonnjoroge/Nmap-Metasploitable-Vulnerability-Assessment">View Nmap Repository</a></td>
   </tr>
 </table>
 
