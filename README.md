@@ -128,15 +128,15 @@ Comprehensive vulnerability assessment of intentionally vulnerable systems using
   </tr>
   <tr>
     <td>OpenVAS Repository</td>
-    <td><a href="https://github.com/wilsonnjoroge/OpenVAS-Metasploitable-Vulnerability-Assessment">View OpenVAS Report</a></td>
+    <td><a href="https://github.com/wilsonnjoroge/OpenVAS-Metasploitable-Vulnerability-Assessment">View OpenVAS Repository</a></td>
   </tr>
   <tr>
     <td>Nessus Repository</td>
-    <td><a href="https://github.com/wilsonnjoroge/Nessus-Metasploitable-Vulnerability-Assessment/">View Nessus Report</a></td>
+    <td><a href="https://github.com/wilsonnjoroge/Nessus-Metasploitable-Vulnerability-Assessment/">View Nessus Repository</a></td>
   </tr>
   <tr>
     <td>Nmap Repository</td>
-    <td><a href="https://github.com/wilsonnjoroge/Nmap-Metasploitable-Vulnerability-Assessment">View Nmap Report</a></td>
+    <td><a href="https://github.com/wilsonnjoroge/Nmap-Metasploitable-Vulnerability-Assessment">View Nmap Repository</a></td>
   </tr>
 </table>
 
