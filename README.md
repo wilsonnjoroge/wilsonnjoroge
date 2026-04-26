@@ -121,13 +121,13 @@ Security expertise built the right way — following the full attack-and-defense
     <td>🌐 Nikto</td>
     <td><a href="https://github.com/wilsonnjoroge/Nikto-Metasploitable-Vulnerability-Assessment">Nikto Repo</a></td>
     <td>HTTP default scan, defined-ports scan, SSL scan against web services</td>
-    <td><a href="https://github.com/wilsonnjoroge/Nikto-Metasploitable-Vulnerability-Assessment/blob/main/05-reporting/metasploitable2-nikto-report.md">Technical Report</a></td>
+    <td><a href="https://github.com/wilsonnjoroge/Nikto-Metasploitable-Vulnerability-Assessment/blob/main/04-reporting/metasploitable2-nikto-report.md">Technical Report</a></td>
   </tr>
   <tr>
     <td>🖥 Manual Enumeration</td>
     <td><a href="https://github.com/wilsonnjoroge/Manual-Enumeration-Metasploitable">Manual Enumeration Repo</a></td>
     <td>13 services manually enumerated: SSH, FTP, Telnet, SMTP, DNS, HTTP, Tomcat, MySQL, PostgreSQL, RPC/NFS, Java RMI, X11, Web</td>
-    <td><a href="https://github.com/wilsonnjoroge/Manual-Enumeration-Metasploitable/blob/main/05-reporting/metasploitable2-full-technical-report.md">Technical Report</a></td>
+    <td><a href="https://github.com/wilsonnjoroge/Manual-Enumeration-Metasploitable/blob/main/04-reporting/metasploitable2-full-technical-report.md">Technical Report</a></td>
   </tr>
 </table>
 
