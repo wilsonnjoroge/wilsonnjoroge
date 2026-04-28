@@ -178,7 +178,7 @@ Controlled exploitation of validated vulnerabilities from Phase 1. Targets: Meta
 
 **Repository:** [siem-detection-lab](https://github.com/wilsonnjoroge/siem-detection-lab)
 
-Detection rule development and log correlation using ELK Stack. Will use Phase 2 attack telemetry as the detection target.
+Detection rule development and log correlation using Wazuh SIEM. Will use Phase 2 attack telemetry as the detection target.
 
 ---
 
