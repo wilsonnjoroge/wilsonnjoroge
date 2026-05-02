@@ -51,22 +51,22 @@ Security expertise built the right way — following the full attack-and-defense
 │                    SECURITY LIFECYCLE                       │
 ├─────────────────────────────────────────────────────────────┤
 │  1. IDENTIFY  → What's vulnerable and why?                  │
-│     Vulnerability Assessment & Management          ✅ Active │
+│     Vulnerability Assessment & Management          ✅ Done  │
 │                                                             │
 │  2. EXPLOIT   → How are weaknesses actually attacked?       │
-│     Controlled Penetration Testing              🔄 Planned  │
+│     Controlled Penetration Testing              🔄 Active   │
 │                                                             │
 │  3. DETECT    → How do we see attacks happening?            │
-│     SIEM / SOC & Security Monitoring            🔄 Planned  │
+│     SIEM / SOC & Security Monitoring            🔄 Active   │
 │                                                             │
 │  4. PREVENT   → How do we stop vulnerabilities at source?   │
-│     Application Security & Secure Development   🔄 Planned  │
+│     Application Security & Secure Development   🗓 Planned  │
 │                                                             │
 │  5. SECURE    → How do we architect secure environments?    │
-│     Cloud & Infrastructure Security             🔄 Planned  │
+│     Cloud & Infrastructure Security             🗓 Planned  │
 │                                                             │
 │  6. RESPOND   → How do we handle security incidents?        │
-│     Incident Response & Digital Forensics       🔄 Planned  │
+│     Incident Response & Digital Forensics       🗓 Planned  │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -174,11 +174,75 @@ Controlled exploitation of validated vulnerabilities from Phase 1. Targets: Meta
 
 ---
 
-### Phase 3 — SIEM & Detection Engineering 🗓 Planned
+### Phase 3 — SIEM & Detection Engineering 🔄 In Progress
 
-**Repository:** [siem-detection-lab](https://github.com/wilsonnjoroge/siem-detection-lab)
+> Virtualized SOC environment built on Wazuh SIEM + Suricata IDS. Covers the full detection engineering lifecycle — from deploying a SIEM and configuring log ingestion, to simulating real attacker TTPs and validating alert generation against MITRE ATT&CK. 4 active agents across Linux and Windows targets.
 
-Detection rule development and log correlation using Wazuh SIEM. Will use Phase 2 attack telemetry as the detection target.
+#### SOC Lab — Key Documents
+
+| Document | Link |
+|---|---|
+| Executive Methodology | [View Doc](https://github.com/wilsonnjoroge/siem-detection-lab/blob/main/docs/siem_methodology_executive.md) |
+| Operational Runbook | [View Doc](https://github.com/wilsonnjoroge/siem-detection-lab/blob/main/docs/siem_lab_runbook.md) |
+| Setup Guide | [View Doc](https://github.com/wilsonnjoroge/siem-detection-lab/blob/main/docs/setup-guide.md) |
+
+---
+
+#### Tools & Components
+
+<table>
+  <tr>
+    <th>Tool</th>
+    <th>Repository</th>
+    <th>What Was Done</th>
+    <th>Key Output</th>
+  </tr>
+  <tr>
+    <td>🛡 Wazuh SIEM</td>
+    <td><a href="https://github.com/wilsonnjoroge/siem-detection-lab">siem-detection-lab</a></td>
+    <td>All-in-one deployment: Manager, Indexer, Dashboard, Filebeat. 4 agents (Kali, Metasploitable3, Windows 11, host Ubuntu). Agent group configs for Linux + Windows log collection</td>
+    <td><a href="https://github.com/wilsonnjoroge/siem-detection-lab/blob/main/docs/setup-guide.md">Setup Guide</a></td>
+  </tr>
+  <tr>
+    <td>🌐 Suricata IDS</td>
+    <td><a href="https://github.com/wilsonnjoroge/siem-detection-lab">siem-detection-lab</a></td>
+    <td>Network IDS installed on Wazuh VM. eve.json → Wazuh integration. Custom local rules for Hydra, SQLMap, DVWA SQLi. False positive suppression via threshold.conf</td>
+    <td><a href="https://github.com/wilsonnjoroge/siem-detection-lab/blob/main/configs/suricata/local.rules">Local Rules</a></td>
+  </tr>
+  <tr>
+    <td>🔨 Hydra</td>
+    <td><a href="https://github.com/wilsonnjoroge/siem-detection-lab">siem-detection-lab</a></td>
+    <td>SSH brute force against Metasploitable3 Ubuntu (rockyou.txt). RDP brute force against Windows 11. Validated Wazuh rules 5763 + 60204 (level 10)</td>
+    <td><a href="https://github.com/wilsonnjoroge/siem-detection-lab/blob/main/attack-scenarios/ssh-bruteforce.md">SSH Bruteforce Scenario</a></td>
+  </tr>
+  <tr>
+    <td>🔍 Nmap</td>
+    <td><a href="https://github.com/wilsonnjoroge/siem-detection-lab">siem-detection-lab</a></td>
+    <td>SYN scan and aggressive scan against all targets. Validated Suricata + Wazuh recon detection (rules 40101, 40111). Custom rule for Nmap HTTP user-agent in web logs</td>
+    <td><a href="https://github.com/wilsonnjoroge/siem-detection-lab/blob/main/attack-scenarios/nmap.md">Nmap Scenario</a></td>
+  </tr>
+  <tr>
+    <td>💣 Metasploit</td>
+    <td><a href="https://github.com/wilsonnjoroge/siem-detection-lab">siem-detection-lab</a></td>
+    <td>vsftpd 2.3.4 backdoor exploit against Metasploitable3. Validated FTP anomaly detection (rule 5712, level 10). Mapped to T1190 — Exploit Public-Facing Application</td>
+    <td><a href="https://github.com/wilsonnjoroge/siem-detection-lab/blob/main/docs/siem_lab_runbook.md">Runbook Phase 4</a></td>
+  </tr>
+  <tr>
+    <td>🐚 Netcat</td>
+    <td><a href="https://github.com/wilsonnjoroge/siem-detection-lab">siem-detection-lab</a></td>
+    <td>Reverse shell simulation between Kali and Metasploitable3. Validated suspicious process + command execution detection (rule 92200, level 10). Mapped to T1059</td>
+    <td><a href="https://github.com/wilsonnjoroge/siem-detection-lab/blob/main/docs/siem_lab_runbook.md">Runbook Phase 4</a></td>
+  </tr>
+</table>
+
+#### Attack Phases — Coverage Breakdown
+
+| Phase | Tests Run | Targets | MITRE Techniques |
+|---|---|---|---|
+| **Phase 1 — Visibility** | Agent connectivity, SSH failed login, RDP failed login | All agents | — |
+| **Phase 2 — Attack Patterns** | SSH brute force, RDP brute force, port scan, web scan | Metasploitable3, Windows 11 | T1110, T1046, T1595, T1595.002 |
+| **Phase 3 — System Compromise** | User creation, group escalation, sudo abuse, FIM (Linux + Windows) | Metasploitable3, Windows 11 | T1136, T1548, T1070, T1565 |
+| **Phase 4 — Advanced Behavior** | vsftpd exploit, reverse shell, cron persistence, scheduled task, malware simulation | Metasploitable3, Windows 11 | T1190, T1059, T1053.003, T1053.005, T1027 |
 
 ---
 
@@ -228,8 +292,9 @@ Automated scanning script used across vulnerability assessment engagements to st
 
 | Category | Tools & Technologies |
 |---|---|
-| **Security Tools** | Nmap, Nessus, OpenVAS, Nikto, Wireshark, Metasploit, Burp Suite, PhotoRec |
+| **Security Tools** | Nmap, Nessus, OpenVAS, Nikto, Wireshark, Metasploit, Burp Suite, PhotoRec, Wazuh, Suricata, Hydra |
 | **Enumeration** | dirb, gobuster, enum4linux, dig, rpcinfo, manual service enumeration |
+| **Detection Engineering** | SIEM rule development, log correlation, MITRE ATT&CK mapping, FIM, IDS integration |
 | **Enterprise Platforms** | Oracle SOA Suite, WebLogic, Service Bus, Java EE |
 | **Cloud & Infrastructure** | AWS, Docker, Kubernetes, Linux (Kali/Ubuntu), Windows |
 | **Languages** | Java (Spring Boot), Python, Bash, C# (ASP.NET Core), Node.js (Express) |
@@ -257,6 +322,6 @@ All testing in this portfolio is conducted on intentionally vulnerable systems i
 ⭐ **If you find my work valuable, please consider starring the projects**
 
 **Wilson Njoroge Wanderi**
-*Last Updated: April 2026*
+*Last Updated: May 2026*
 
 </div>
