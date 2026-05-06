@@ -1,6 +1,7 @@
 # Wilson Njoroge Wanderi 
 
 > **From Backend Engineer to Security Professional** — a structured, hands-on journey through the complete attack-and-defense lifecycle.
+> **You cannot protect what you donot know**
 
 <p align="center">
     <a href="https://www.linkedin.com/in/wilson-njoroge-wanderi-ccep-cc-kcna-itil%C2%AE4-pho-33b615166/">
