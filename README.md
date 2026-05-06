@@ -1,8 +1,6 @@
 # Wilson Njoroge Wanderi 
 
 > **From Backend Engineer to Security Professional** — a structured, hands-on journey through the complete attack-and-defense lifecycle.
-  
-> **You cannot protect what you donot know**
 
 <p align="center">
     <a href="https://www.linkedin.com/in/wilson-njoroge-wanderi-ccep-cc-kcna-itil%C2%AE4-pho-33b615166/">
@@ -78,7 +76,7 @@ Security expertise built the right way — following the full attack-and-defense
 
 ---
 
-### Phase 1 — Vulnerability Assessment & Management ✅
+### [Phase 1 — Vulnerability Assessment & Management ✅](https://github.com/wilsonnjoroge/vulnerability-assessment)
 
 > Comprehensive vulnerability assessment of Metasploitable2 using enterprise-grade tools and a structured 7-phase methodology. Each scanner is a standalone repository with full evidence, raw results, screenshots, and a professional technical report.
 
@@ -153,9 +151,8 @@ Security expertise built the right way — following the full attack-and-defense
 
 ---
 
-### Phase 1 (Bonus) — Digital Forensics: PhotoRec File Recovery
+### [Phase 1 (Bonus) — Digital Forensics: PhotoRec File Recovery](https://github.com/wilsonnjoroge/PhotoRec-Recovery)
 
-**Repository:** [PhotoRec-Recovery](https://github.com/wilsonnjoroge/PhotoRec-Recovery)
 
 Practical file recovery exercise using PhotoRec on Linux. Covers image selection, file signature configuration, and recovery of deleted files from a disk image.
 
@@ -168,15 +165,13 @@ Practical file recovery exercise using PhotoRec on Linux. Covers image selection
 
 ---
 
-### Phase 2 — Penetration Testing 🔄 In Progress
-
-**Repository:** [penetration-testing](https://github.com/wilsonnjoroge/penetration-testing)
+### [Phase 2 — Penetration Testing 🔄 In Progress](https://github.com/wilsonnjoroge/penetration-testing)
 
 Controlled exploitation of validated vulnerabilities from Phase 1. Targets: Metasploitable2, DVWA, OWASP Juice Shop.
 
 ---
 
-### Phase 3 — SIEM & Detection Engineering 🔄 In Progress
+### [Phase 3 — SIEM & Detection Engineering 🔄 In Progress](https://github.com/wilsonnjoroge/siem-detection-lab)
 
 > Virtualized SOC environment built on Wazuh SIEM + Suricata IDS. Covers the full detection engineering lifecycle — from deploying a SIEM and configuring log ingestion, to simulating real attacker TTPs and validating alert generation against MITRE ATT&CK. 4 active agents across Linux and Windows targets.
 
@@ -247,34 +242,27 @@ Controlled exploitation of validated vulnerabilities from Phase 1. Targets: Meta
 | **Phase 4 — Advanced Behavior** | vsftpd exploit, reverse shell, cron persistence, scheduled task, malware simulation | Metasploitable3, Windows 11 | T1190, T1059, T1053.003, T1053.005, T1027 |
 
 ---
-
-### Phase 4 — Application Security 🗓 Planned
-
-**Repository:** [application-security](https://github.com/wilsonnjoroge/application-security)
+<!--
+### [Phase 4 — Application Security 🗓 Planned](https://github.com/wilsonnjoroge/application-security)
 
 OWASP Top 10, threat modelling (STRIDE), DAST/SAST tooling, secure coding practices.
 
 ---
 
-### Phase 5 — Cloud Security 🗓 Planned
-
-**Repository:** [cloud-security](https://github.com/wilsonnjoroge/cloud-security)
+### [Phase 5 — Cloud Security 🗓 Planned](https://github.com/wilsonnjoroge/cloud-security)
 
 Cloud IAM hardening, container security, IaC security on AWS, Azure, and Kubernetes.
 
 ---
 
-### Phase 6 — Incident Response & DFIR 🗓 Planned
-
-**Repository:** [incident-response](https://github.com/wilsonnjoroge/incident-response)
+### [Phase 6 — Incident Response & DFIR 🗓 Planned](https://github.com/wilsonnjoroge/incident-response)
 
 Full incident response lifecycle from detection through forensic analysis and post-incident hardening.
 
+-->
 ---
 
-### Bonus — Password Strength Checker
-
-**Repository:** [Password-Strength-Checker](https://github.com/wilsonnjoroge/Password-Strength-Checker)
+### [Bonus — Password Strength Checker](https://github.com/wilsonnjoroge/Password-Strength-Checker)
 
 A full-featured Python/Flask application for real-time password security evaluation. Features entropy analysis, crack-time estimation, HaveIBeenPwned breach detection (k-anonymity), pattern detection (repeats, sequences, keyboard walks), and actionable improvement tips.
 
@@ -282,9 +270,7 @@ A full-featured Python/Flask application for real-time password security evaluat
 
 ---
 
-## Scripts & Automation
-
-**Location:** [scripts/auto-scan.sh](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/scripts/auto-scan.sh)
+## [Scripts & Automation](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/scripts/auto-scan.sh)
 
 Automated scanning script used across vulnerability assessment engagements to standardise scan execution and output formatting.
 
