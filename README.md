@@ -24,7 +24,7 @@
 
 ---
 
-## About Me
+## About Me 
 
 I'm a Cybersecurity & Digital Forensics engineer with 2+ years of experience securing banking and enterprise integration environments at Equity Group Holdings. Hands-on capability in SIEM deployment (Wazuh), network intrusion detection (Suricata), vulnerability assessment, penetration testing, and security incident detection. Proven track record of producing executive-ready security reports, remediation roadmaps, and audit-ready documentation. Holds ISC2 CC certification; advancing toward CompTIA Security+.
 
