@@ -76,7 +76,7 @@ Security expertise built the right way — following the full attack-and-defense
 
 ---
 
-### [Phase 1 — Vulnerability Assessment & Management ✅](https://github.com/wilsonnjoroge/vulnerability-assessment)
+### [Vulnerability Assessment & Management ✅](https://github.com/wilsonnjoroge/vulnerability-assessment)
 
 > Comprehensive vulnerability assessment of Metasploitable2 using enterprise-grade tools and a structured 7-phase methodology. Each scanner is a standalone repository with full evidence, raw results, screenshots, and a professional technical report.
 
@@ -150,7 +150,7 @@ Security expertise built the right way — following the full attack-and-defense
 | Banner Analysis | All | Custom bash script across all open ports |
 
 ---
-
+<!--
 ### [Phase 1 (Bonus) — Digital Forensics: PhotoRec File Recovery](https://github.com/wilsonnjoroge/PhotoRec-Recovery)
 
 
@@ -163,15 +163,16 @@ Practical file recovery exercise using PhotoRec on Linux. Covers image selection
 | `Photorec-Linux-File-Recovery-1.png` | Recovery in progress |
 | `Photorec-Linux-File-Recovered-Docs-1.png` | Recovered files |
 
+-->
 ---
 
-### [Phase 2 — Penetration Testing 🔄 In Progress](https://github.com/wilsonnjoroge/penetration-testing)
+### [Penetration Testing 🔄 In Progress](https://github.com/wilsonnjoroge/penetration-testing)
 
 Controlled exploitation of validated vulnerabilities from Phase 1. Targets: Metasploitable2, DVWA, OWASP Juice Shop.
 
 ---
 
-### [Phase 3 — SIEM & Detection Engineering 🔄 In Progress](https://github.com/wilsonnjoroge/siem-detection-lab)
+### [SIEM & Detection Engineering 🔄 In Progress](https://github.com/wilsonnjoroge/siem-detection-lab)
 
 > Virtualized SOC environment built on Wazuh SIEM + Suricata IDS. Covers the full detection engineering lifecycle — from deploying a SIEM and configuring log ingestion, to simulating real attacker TTPs and validating alert generation against MITRE ATT&CK. 4 active agents across Linux and Windows targets.
 
@@ -243,19 +244,19 @@ Controlled exploitation of validated vulnerabilities from Phase 1. Targets: Meta
 
 ---
 <!--
-### [Phase 4 — Application Security 🗓 Planned](https://github.com/wilsonnjoroge/application-security)
+### [Application Security 🗓 Planned](https://github.com/wilsonnjoroge/application-security)
 
 OWASP Top 10, threat modelling (STRIDE), DAST/SAST tooling, secure coding practices.
 
 ---
 
-### [Phase 5 — Cloud Security 🗓 Planned](https://github.com/wilsonnjoroge/cloud-security)
+### [Cloud Security 🗓 Planned](https://github.com/wilsonnjoroge/cloud-security)
 
 Cloud IAM hardening, container security, IaC security on AWS, Azure, and Kubernetes.
 
 ---
 
-### [Phase 6 — Incident Response & DFIR 🗓 Planned](https://github.com/wilsonnjoroge/incident-response)
+### [Incident Response & DFIR 🗓 Planned](https://github.com/wilsonnjoroge/incident-response)
 
 Full incident response lifecycle from detection through forensic analysis and post-incident hardening.
 
