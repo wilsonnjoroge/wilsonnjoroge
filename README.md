@@ -191,7 +191,7 @@ Controlled exploitation of validated vulnerabilities from Phase 1. Targets: Meta
     </tr>
         <tr>
         <td>Operational Runbook</td>
-        <td></td>
+        <td>This document contains the Exact Commands, Expected Alerts and Verification Steps</td>
         <td><a href="https://github.com/wilsonnjoroge/siem-detection-lab/blob/main/docs/siem_lab_runbook.md">View Doc</a></td>
     </tr>
         <tr>
