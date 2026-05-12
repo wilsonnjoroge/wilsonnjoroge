@@ -196,7 +196,8 @@ Controlled exploitation of validated vulnerabilities from Phase 1. Targets: Meta
     </tr>
         <tr>
         <td>Setup Guide</td>
-        <td></td>
+        <td>This document contains the technical Setup Reference Companion the README.md and siem_lab_runbook.md. It contains the Step-by-step installation and configuration guide for all lab components using placeholders.
+</td>
         <td><a href="https://github.com/wilsonnjoroge/siem-detection-lab/blob/main/docs/setup-guide.md">View Doc</a></td>
     </tr>
 </table>
