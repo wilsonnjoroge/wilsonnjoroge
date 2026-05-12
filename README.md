@@ -45,7 +45,7 @@ Currently pursuing an MSc in Cyber Security & Digital Forensics, I'm working thr
 ## Learning Philosophy
 
 Security expertise built the right way — following the full attack-and-defense lifecycle in sequence:
-
+ 
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                    SECURITY LIFECYCLE                       │
