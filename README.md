@@ -178,11 +178,28 @@ Controlled exploitation of validated vulnerabilities from Phase 1. Targets: Meta
 
 #### SOC Lab — Key Documents
 
-| Document | Link |
-|---|---|
-| Executive Methodology | [View Doc](https://github.com/wilsonnjoroge/siem-detection-lab/blob/main/docs/siem_methodology_executive.md) |
-| Operational Runbook | [View Doc](https://github.com/wilsonnjoroge/siem-detection-lab/blob/main/docs/siem_lab_runbook.md) |
-| Setup Guide | [View Doc](https://github.com/wilsonnjoroge/siem-detection-lab/blob/main/docs/setup-guide.md) |
+<table>
+    <tr>
+        <td>Document</td>
+        <td>Description</td>
+        <td>Link</td>
+    </tr>
+    <tr>
+        <td>Executive Methodology</td>
+        <td></td>
+        <td><a href="https://github.com/wilsonnjoroge/siem-detection-lab/blob/main/docs/siem_methodology_executive.md">View Doc</a></td>
+    </tr>
+        <tr>
+        <td>Operational Runbook</td>
+        <td></td>
+        <td><a href="https://github.com/wilsonnjoroge/siem-detection-lab/blob/main/docs/siem_lab_runbook.md">View Doc</a></td>
+    </tr>
+        <tr>
+        <td>Setup Guide</td>
+        <td></td>
+        <td><a href="https://github.com/wilsonnjoroge/siem-detection-lab/blob/main/docs/setup-guide.md">View Doc</a></td>
+    </tr>
+</table>
 
 ---
 
