@@ -186,7 +186,7 @@ Controlled exploitation of validated vulnerabilities from Phase 1. Targets: Meta
     </tr>
     <tr>
         <td>Executive Methodology</td>
-        <td></td>
+        <td>This document defines a structured, repeatable methodology for validating detection coverage across a Wazuh-based SOC lab environment. Rather than executing tools arbitrarily, this framework maps every test action to a telemetry domain, an expected log source, and a measurable detection outcome</td>
         <td><a href="https://github.com/wilsonnjoroge/siem-detection-lab/blob/main/docs/siem_methodology_executive.md">View Doc</a></td>
     </tr>
         <tr>
