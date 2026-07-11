@@ -1,9 +1,8 @@
-# Wilson Njoroge Wanderi 
+# Wilson Njoroge Wanderi
 
-> **From Backend Engineer to Security Professional**; a structured, hands-on journey through the complete attack-and-defense lifecycle.
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/wilson-njoroge-wanderi-ccep-cc-kcna-itil%C2%AE4-pho-33b615166/">
+    <a href="https://www.linkedin.com/in/wilson-njoroge-wanderi-ccep-cc-kcna-itil%C2%AE4-33b615166/">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     &nbsp;
@@ -19,16 +18,18 @@
         <img src="https://img.shields.io/badge/ISC2-CC-006400?style=flat-square" alt="ISC2 CC"/>
     </a>
     &nbsp;
+    <img src="https://img.shields.io/badge/AWS%20Security%20Specialty-In%20Progress-FF9900?style=flat-square" alt="AWS Security Specialty In Progress"/>
+    &nbsp;
     <img src="https://komarev.com/ghpvc/?username=wilsonnjoroge&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
 ---
 
-## About Me 
+## About Me
 
-A Cybersecurity & Digital Forensics engineer with 2+ years of experience securing banking and enterprise integration environments at Equity Group Holdings. Hands-on capability in SIEM deployment and XDR (Wazuh), network intrusion detection (Suricata), vulnerability assessment, penetration testing, and security incident detection. Proven track record of producing executive-ready security reports, remediation roadmaps, and audit-ready documentation. Holds ISC2 CC certification; advancing toward CompTIA Security+.
+A Cloud Security Specialist (AWS) and Cybersecurity & Digital Forensics engineer with 2+ years of experience securing banking and enterprise integration environments at Equity Group Holdings. Actively building enterprise-grade AWS security architecture: IAM least privilege, network segmentation, encryption, detection and incident response: while pursuing AWS Certified Security – Specialty. Hands-on capability in SIEM deployment and XDR (Wazuh), network intrusion detection (Suricata), vulnerability assessment, and penetration testing. Holds ISC2 CC, CCEP, and KCNA.
 
-Currently pursuing an MSc in Cyber Security & Digital Forensics, I'm working through the complete security lifecycle — not just the offensive side. Every project here is documented end-to-end: from pre-engagement setup and evidence capture through to professional reporting.
+Currently pursuing an MSc in Cyber Security & Digital Forensics, I'm working through the complete security lifecycle: not just the offensive side. Every project here is documented end-to-end: from pre-engagement setup and evidence capture through to professional reporting.
 
 ---
 
@@ -36,16 +37,19 @@ Currently pursuing an MSc in Cyber Security & Digital Forensics, I'm working thr
 
 | Certification | Issuer | Status |
 |---|---|---|
-| Certified in Cybersecurity (CC) | ISC2 | ✅ Completed |
-| MSc Cyber Security & Digital Forensics | Open University of Kenya | 🔄 In Progress |
-| CompTIA Security+ | CompTIA | 🔄 In Progress |
+| **MSc Cyber Security & Digital Forensics** | Open University of Kenya | 🔄 In Progress |
+| **Certified in Cybersecurity (CC)** | ISC2 | ✅ Completed |
+| **Kubernetes & Cloud Native Associate (KCNA)** | CNCF | ✅ Completed |
+| **Certified Cybersecurity Educator Professional (CCEP)** | CCEP | ✅ Completed |
+| **ITIL® 4 Foundation** | PeopleCert | ✅ Completed |
+| **AWS Certified Security - Specialty** | AWS | 🔄 In Progress |
 
 ---
 
 ## Learning Philosophy
 
-Security expertise built the right way — following the full attack-and-defense lifecycle in sequence:
- 
+Security expertise built the right way: following the full attack-and-defense lifecycle in sequence:
+
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                    SECURITY LIFECYCLE                       │
@@ -59,14 +63,14 @@ Security expertise built the right way — following the full attack-and-defense
 │  3. DETECT    → How do we see attacks happening?            │
 │     SIEM / SOC & Security Monitoring            🔄 Active   │
 │                                                             │
-│  4. PREVENT   → How do we stop vulnerabilities at source?   │
+│  4. SECURE    → How do we architect secure environments?    │
+│     Cloud Security Architecture (AWS)           🔄 Active   │
+│                                                             │
+│  5. RESPOND   → How do we handle security incidents?        │
+│     Cloud Incident Response & Digital Forensics 🔄 Active   │
+│                                                             │
+│  6. PREVENT   → How do we stop vulnerabilities at source?   │
 │     Application Security & Secure Development   🗓 Planned  │
-│                                                             │
-│  5. SECURE    → How do we architect secure environments?    │
-│     Cloud & Infrastructure Security             🗓 Planned  │
-│                                                             │
-│  6. RESPOND   → How do we handle security incidents?        │
-│     Incident Response & Digital Forensics       🗓 Planned  │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -76,11 +80,27 @@ Security expertise built the right way — following the full attack-and-defense
 
 ---
 
+### [Cloud Security Portfolio 🔄 Active](https://github.com/wilsonnjoroge/cloud-security)
+
+> Multi-cloud security engineering portfolio, currently centered on a 29-document, four-phase AWS build: network, identity, compute, detection, forensics, and offensive validation, modeled on a fictional PCI-DSS fintech (AcmeFintech Ltd). Every control is tested end to end, not just configured: security groups tested for both allow and deny, CloudTrail alerts proven from event to inbox, S3 versioning and logging verified live. Documented publicly as a 30-day technical series building toward **AWS Certified Security – Specialty**. Azure, GCP, and Terraform-based IaC work are structured as sibling folders within the same repository as they come online.
+
+| Phase | Focus | Status |
+|---|---|---|
+| Phase 1: Foundations | VPC, IAM, EC2, S3, Security Groups & NACLs, CloudTrail, CloudWatch, Billing | ✅ Complete |
+| Phase 2: Detection & Hardening | GuardDuty, VPC Flow Logs, AWS Config, Security Hub, WAF, KMS, Secrets Manager | 🔄 In Progress |
+| Phase 3: Forensics & Incident Response | EBS forensics, log analysis, memory acquisition, IAM/S3 IR, Lambda isolation | 🗓 Planned |
+| Phase 4: Offensive Validation | CloudGoat, IAM privilege escalation, IMDS attacks, S3 misconfiguration, Pacu | 🗓 Planned |
+| Capstone | Full enterprise build, live attack-detect-respond simulation | 🗓 Planned |
+
+→ [Full roadmap and doc index](https://github.com/wilsonnjoroge/cloud-security/blob/master/aws-security/README.md)
+
+---
+
 ### [Vulnerability Assessment & Management ✅](https://github.com/wilsonnjoroge/vulnerability-assessment)
 
 > Comprehensive vulnerability assessment of Metasploitable2 using enterprise-grade tools and a structured 7-phase methodology. Each scanner is a standalone repository with full evidence, raw results, screenshots, and a professional technical report.
 
-#### Metasploitable2 — Master Report
+#### Metasploitable2: Master Report
 
 | Document | Link |
 |---|---|
@@ -88,7 +108,6 @@ Security expertise built the right way — following the full attack-and-defense
 | Full Technical Report | [View Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/reports/metasploitable2-full-technical-report.md) |
 | Attack Chain Analysis | [View Report](https://github.com/wilsonnjoroge/vulnerability-assessment/blob/main/reports/metasploitable2-attack-chains-analysis.md) |
 
----
 
 #### Scanner Repositories
 
@@ -131,7 +150,7 @@ Security expertise built the right way — following the full attack-and-defense
   </tr>
 </table>
 
-#### Manual Enumeration — Services Covered
+#### Manual Enumeration: Services Covered
 
 | Service | Port | Techniques Used |
 |---|---|---|
@@ -151,32 +170,17 @@ Security expertise built the right way — following the full attack-and-defense
 
 ---
 <!--
-### [Phase 1 (Bonus) — Digital Forensics: PhotoRec File Recovery](https://github.com/wilsonnjoroge/PhotoRec-Recovery)
-
-
-Practical file recovery exercise using PhotoRec on Linux. Covers image selection, file signature configuration, and recovery of deleted files from a disk image.
-
-| Evidence | Description |
-|---|---|
-| `Photorec-Linux-Image-Selection.png` | Target image selection |
-| `Photorec-Linux-File-Signatures-To-Recover.png` | Configured file types |
-| `Photorec-Linux-File-Recovery-1.png` | Recovery in progress |
-| `Photorec-Linux-File-Recovered-Docs-1.png` | Recovered files |
-
--->
----
-
-### [Penetration Testing 🔄 In Progress](https://github.com/wilsonnjoroge/penetration-testing)
+### [Penetration Testing](https://github.com/wilsonnjoroge/penetration-testing)
 
 Controlled exploitation of validated vulnerabilities from Phase 1. Targets: Metasploitable2, DVWA, OWASP Juice Shop.
 
----
+-->
 
 ### [SIEM & Detection Engineering 🔄 In Progress](https://github.com/wilsonnjoroge/siem-detection-lab)
 
-> Virtualized SOC environment built on Wazuh SIEM + Suricata IDS. Covers the full detection engineering lifecycle — from deploying a SIEM and configuring log ingestion, to simulating real attacker TTPs and validating alert generation against MITRE ATT&CK. 4 active agents across Linux and Windows targets.
+> Virtualized SOC environment built on Wazuh SIEM + Suricata IDS. Covers the full detection engineering lifecycle: from deploying a SIEM and configuring log ingestion, to simulating real attacker TTPs and validating alert generation against MITRE ATT&CK. 4 active agents across Linux and Windows targets.
 
-#### SOC Lab — Key Documents
+#### SOC Lab: Key Documents
 
 <table>
     <tr>
@@ -202,7 +206,7 @@ Controlled exploitation of validated vulnerabilities from Phase 1. Targets: Meta
     </tr>
 </table>
 
----
+
 
 #### Tools & Components
 
@@ -240,7 +244,7 @@ Controlled exploitation of validated vulnerabilities from Phase 1. Targets: Meta
   <tr>
     <td>💣 Metasploit</td>
     <td><a href="https://github.com/wilsonnjoroge/siem-detection-lab">siem-detection-lab</a></td>
-    <td>vsftpd 2.3.4 backdoor exploit against Metasploitable3. Validated FTP anomaly detection (rule 5712, level 10). Mapped to T1190 — Exploit Public-Facing Application</td>
+    <td>vsftpd 2.3.4 backdoor exploit against Metasploitable3. Validated FTP anomaly detection (rule 5712, level 10). Mapped to T1190: Exploit Public-Facing Application</td>
     <td><a href="https://github.com/wilsonnjoroge/siem-detection-lab/blob/main/docs/siem_lab_runbook.md">Runbook Phase 4</a></td>
   </tr>
   <tr>
@@ -251,37 +255,18 @@ Controlled exploitation of validated vulnerabilities from Phase 1. Targets: Meta
   </tr>
 </table>
 
-#### Attack Phases — Coverage Breakdown
+#### Attack Phases: Coverage Breakdown
 
 | Phase | Tests Run | Targets | MITRE Techniques |
 |---|---|---|---|
-| **Phase 1 — Visibility** | Agent connectivity, SSH failed login, RDP failed login | All agents | — |
-| **Phase 2 — Attack Patterns** | SSH brute force, RDP brute force, port scan, web scan | Metasploitable3, Windows 11 | T1110, T1046, T1595, T1595.002 |
-| **Phase 3 — System Compromise** | User creation, group escalation, sudo abuse, FIM (Linux + Windows) | Metasploitable3, Windows 11 | T1136, T1548, T1070, T1565 |
-| **Phase 4 — Advanced Behavior** | vsftpd exploit, reverse shell, cron persistence, scheduled task, malware simulation | Metasploitable3, Windows 11 | T1190, T1059, T1053.003, T1053.005, T1027 |
-
----
-<!--
-### [Application Security 🗓 Planned](https://github.com/wilsonnjoroge/application-security)
-
-OWASP Top 10, threat modelling (STRIDE), DAST/SAST tooling, secure coding practices.
+| **Phase 1: Visibility** | Agent connectivity, SSH failed login, RDP failed login | All agents |: |
+| **Phase 2: Attack Patterns** | SSH brute force, RDP brute force, port scan, web scan | Metasploitable3, Windows 11 | T1110, T1046, T1595, T1595.002 |
+| **Phase 3: System Compromise** | User creation, group escalation, sudo abuse, FIM (Linux + Windows) | Metasploitable3, Windows 11 | T1136, T1548, T1070, T1565 |
+| **Phase 4: Advanced Behavior** | vsftpd exploit, reverse shell, cron persistence, scheduled task, malware simulation | Metasploitable3, Windows 11 | T1190, T1059, T1053.003, T1053.005, T1027 |
 
 ---
 
-### [Cloud Security 🗓 Planned](https://github.com/wilsonnjoroge/cloud-security)
-
-Cloud IAM hardening, container security, IaC security on AWS, Azure, and Kubernetes.
-
----
-
-### [Incident Response & DFIR 🗓 Planned](https://github.com/wilsonnjoroge/incident-response)
-
-Full incident response lifecycle from detection through forensic analysis and post-incident hardening.
-
--->
----
-
-### [Bonus — Password Strength Checker](https://github.com/wilsonnjoroge/Password-Strength-Checker)
+### [Password Strength Checker](https://github.com/wilsonnjoroge/Password-Strength-Checker)
 
 A full-featured Python/Flask application for real-time password security evaluation. Features entropy analysis, crack-time estimation, HaveIBeenPwned breach detection (k-anonymity), pattern detection (repeats, sequences, keyboard walks), and actionable improvement tips.
 
@@ -299,11 +284,12 @@ Automated scanning script used across vulnerability assessment engagements to st
 
 | Category | Tools & Technologies |
 |---|---|
+| **Cloud Security** | AWS (VPC, IAM, EC2, S3, Session Manager, CloudTrail, CloudWatch), Cloud Security Architecture, Least-Privilege IAM Design |
 | **Security Tools** | Nmap, Nessus, OpenVAS, Nikto, Wireshark, Metasploit, Burp Suite, PhotoRec, Wazuh, Suricata, Hydra |
 | **Enumeration** | dirb, gobuster, enum4linux, dig, rpcinfo, manual service enumeration |
 | **Detection Engineering** | SIEM rule development, log correlation, MITRE ATT&CK mapping, FIM, IDS integration |
 | **Enterprise Platforms** | Oracle SOA Suite, WebLogic, Service Bus, Java EE |
-| **Cloud & Infrastructure** | AWS, Docker, Kubernetes, Linux (Kali/Ubuntu), Windows |
+| **Infrastructure** | Docker, Kubernetes, Linux (Kali/Ubuntu), Windows |
 | **Languages** | Java (Spring Boot), Python, Bash, C# (ASP.NET Core), Node.js (Express) |
 | **Reporting** | Markdown, executive summaries, technical reports, attack chain analysis |
 
@@ -311,7 +297,7 @@ Automated scanning script used across vulnerability assessment engagements to st
 
 ## Ethics & Responsible Use
 
-All testing in this portfolio is conducted on intentionally vulnerable systems in isolated lab environments. No unauthorised testing is performed on production systems or third-party infrastructure.
+All testing in this portfolio is conducted on intentionally vulnerable systems or self-provisioned isolated cloud lab environments. No unauthorised testing is performed on production systems or third-party infrastructure.
 
 ---
 
@@ -329,6 +315,6 @@ All testing in this portfolio is conducted on intentionally vulnerable systems i
 ⭐ **If you find my work valuable, please consider starring the projects**
 
 **Wilson Njoroge Wanderi**
-*Last Updated: May 2026*
+*Last Updated: July 2026*
 
 </div>
